@@ -1,0 +1,19 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[1] Config.pm:311> INFO - Logfile is 'KnotsFractal2025.blg'
+[173] biber-MSWIN64:340> INFO - === 
+[237] Biber.pm:420> INFO - Reading 'KnotsFractal2025.bcf'
+[442] Biber.pm:994> INFO - Found 6 citekeys in bib section 0
+[473] Biber.pm:4463> INFO - Processing section 0
+[496] Biber.pm:4654> INFO - Looking for bibtex file 'KnotsFractalsReference.bib' for section 0
+[598] bibtex.pm:1713> INFO - LaTeX decoding ...
+[629] bibtex.pm:1519> INFO - Found BibTeX data source 'KnotsFractalsReference.bib'
+[778] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[782] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[782] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[782] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[809] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[809] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[826] bbl.pm:676> INFO - Writing 'KnotsFractal2025.bbl' with encoding 'UTF-8'
+[837] bbl.pm:779> INFO - Output to KnotsFractal2025.bbl
