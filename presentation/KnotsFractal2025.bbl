@@ -56,6 +56,40 @@
       \verb https://books.google.be/books?id=RqiMCgAAQBAJ
       \endverb
     \endentry
+    \entry{Quanta}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cac00c6576e77525626970ce6c253d6}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{fullhash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{fullhashraw}{5cac00c6576e77525626970ce6c253d6}
+      \strng{bibnamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorbibnamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authornamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorfullhash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorfullhashraw}{5cac00c6576e77525626970ce6c253d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-26}
+      \field{title}{Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
+      \endverb
+      \verb{url}
+      \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
+      \endverb
+    \endentry
     \entry{broden2024knotsinsidefractals}{misc}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=29b790c77af1128ebdb19ee04897727a}{%
@@ -110,6 +144,40 @@
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2409.03639
+      \endverb
+    \endentry
+    \entry{cantor}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhashraw}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhashraw}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 26-March-2025]}
+      \field{title}{File:Cantor set in seven iterations.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Cantor_set_in_seven_iterations.svg&oldid=979565506
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Cantor_set_in_seven_iterations.svg&oldid=979565506
       \endverb
     \endentry
     \entry{555w}{misc}{}{}
@@ -177,6 +245,37 @@
       \verb https://math.stackexchange.com/q/2660480
       \endverb
     \endentry
+    \entry{sierpinski2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a157b3b9e65a4cc05e6ba040341c52b}{%
+           family={Illustrative-Mathematics},
+           familyi={I\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{fullhash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{fullhashraw}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{bibnamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorbibnamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authornamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorfullhash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorfullhashraw}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-26}
+      \field{title}{Sierpinski Carpet}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://tasks.illustrativemathematics.org/content-standards/tasks/1523
+      \endverb
+      \verb{url}
+      \verb https://tasks.illustrativemathematics.org/content-standards/tasks/1523
+      \endverb
+    \endentry
     \entry{article2}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b1dcdf5a6141f69b38f928129048f2eb}{%
@@ -213,6 +312,42 @@
       \verb{doi}
       \verb 10.48550/arXiv.1604.03870
       \endverb
+    \endentry
+    \entry{knotinfo}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=66b8d60decbc9d18e943023eedfc6ea6}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c86579442a5f53a88bf2bb52c404877}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Allison\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{fullhash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{fullhashraw}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{bibnamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorbibnamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authornamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorfullhash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorfullhashraw}{5d13b30f2999c6b9b6147db67ef13103}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{URL: \url{knotinfo.math.indiana.edu}}
+      \field{month}{3}
+      \field{note}{Accessed on 21.03.2025}
+      \field{title}{KnotInfo: Table of Knot Invariants}
+      \field{year}{2025}
     \endentry
     \entry{article}{article}{}{}
       \name{author}{2}{}{%
@@ -292,6 +427,40 @@
       \verb https://books.google.be/books?id=RqiMCgAAQBAJ
       \endverb
     \endentry
+    \entry{Quanta}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cac00c6576e77525626970ce6c253d6}{%
+           family={Barber},
+           familyi={B\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{fullhash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{fullhashraw}{5cac00c6576e77525626970ce6c253d6}
+      \strng{bibnamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorbibnamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authornamehash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorfullhash}{5cac00c6576e77525626970ce6c253d6}
+      \strng{authorfullhashraw}{5cac00c6576e77525626970ce6c253d6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-26}
+      \field{title}{Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
+      \endverb
+      \verb{url}
+      \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
+      \endverb
+    \endentry
     \entry{broden2024knotsinsidefractals}{misc}{}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=29b790c77af1128ebdb19ee04897727a}{%
@@ -346,6 +515,40 @@
       \endverb
       \verb{url}
       \verb https://arxiv.org/abs/2409.03639
+      \endverb
+    \endentry
+    \entry{cantor}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhashraw}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhashraw}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 26-March-2025]}
+      \field{title}{File:Cantor set in seven iterations.svg --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Cantor_set_in_seven_iterations.svg&oldid=979565506
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Cantor_set_in_seven_iterations.svg&oldid=979565506
       \endverb
     \endentry
     \entry{555w}{misc}{}{}
@@ -413,6 +616,37 @@
       \verb https://math.stackexchange.com/q/2660480
       \endverb
     \endentry
+    \entry{sierpinski2016}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3a157b3b9e65a4cc05e6ba040341c52b}{%
+           family={Illustrative-Mathematics},
+           familyi={I\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{fullhash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{fullhashraw}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{bibnamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorbibnamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authornamehash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorfullhash}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \strng{authorfullhashraw}{3a157b3b9e65a4cc05e6ba040341c52b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-03-26}
+      \field{title}{Sierpinski Carpet}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://tasks.illustrativemathematics.org/content-standards/tasks/1523
+      \endverb
+      \verb{url}
+      \verb https://tasks.illustrativemathematics.org/content-standards/tasks/1523
+      \endverb
+    \endentry
     \entry{article2}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=b1dcdf5a6141f69b38f928129048f2eb}{%
@@ -449,6 +683,42 @@
       \verb{doi}
       \verb 10.48550/arXiv.1604.03870
       \endverb
+    \endentry
+    \entry{knotinfo}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=66b8d60decbc9d18e943023eedfc6ea6}{%
+           family={Livingston},
+           familyi={L\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c86579442a5f53a88bf2bb52c404877}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Allison\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{fullhash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{fullhashraw}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{bibnamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorbibnamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authornamehash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorfullhash}{5d13b30f2999c6b9b6147db67ef13103}
+      \strng{authorfullhashraw}{5d13b30f2999c6b9b6147db67ef13103}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{URL: \url{knotinfo.math.indiana.edu}}
+      \field{month}{3}
+      \field{note}{Accessed on 21.03.2025}
+      \field{title}{KnotInfo: Table of Knot Invariants}
+      \field{year}{2025}
     \endentry
     \entry{article}{article}{}{}
       \name{author}{2}{}{%
