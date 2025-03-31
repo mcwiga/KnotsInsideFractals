@@ -245,6 +245,52 @@
       \verb https://math.stackexchange.com/q/2660480
       \endverb
     \endentry
+    \entry{iftekharuddin2003fractal}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff9bb9cf08086cc1e959ca0d5067b947}{%
+           family={Iftekharuddin},
+           familyi={I\bibinitperiod},
+           given={Khan\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06a3261191e8a8374ae5ea255505437d}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04ae31d624d80ef70260234fff2db454}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5a19e8ddd5b6896add7783b133bc954a}
+      \strng{fullhash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{fullhashraw}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{bibnamehash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authorbibnamehash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authornamehash}{5a19e8ddd5b6896add7783b133bc954a}
+      \strng{authorfullhash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authorfullhashraw}{5bab632edaa9b88910d7f70ae0be4693}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{title}{Fractal analysis of tumor in brain MR images}
+      \field{volume}{13}
+      \field{year}{2003}
+      \field{pages}{352\bibrangedash 362}
+      \range{pages}{11}
+    \endentry
     \entry{sierpinski2016}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3a157b3b9e65a4cc05e6ba040341c52b}{%
@@ -386,6 +432,75 @@
       \field{year}{2017}
       \verb{doi}
       \verb 10.1088/1751-8121/aa80b0
+      \endverb
+    \endentry
+    \entry{uahabi2015applications}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a9d3d76ba7c7469ce0f5702aaf61e20b}{%
+           family={Uahabi},
+           familyi={U\bibinitperiod},
+           given={Kaoutar\bibnamedelima Lamrini},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e11f4cea82a72fcc2e5f0e54a3b24e5}{%
+           family={Atounti},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{fullhash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{fullhashraw}{a0d4e594008c9070806942ea67d35abb}
+      \strng{bibnamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorbibnamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authornamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorfullhash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorfullhashraw}{a0d4e594008c9070806942ea67d35abb}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of the University of Craiova-Mathematics and Computer Science Series}
+      \field{number}{1}
+      \field{title}{Applications of fractals in medicine}
+      \field{volume}{42}
+      \field{year}{2015}
+      \field{pages}{167\bibrangedash 174}
+      \range{pages}{8}
+    \endentry
+    \entry{enwiki:1262008950}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 31-March-2025]}
+      \field{title}{Contact geometry --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
       \endverb
     \endentry
   \enddatalist
@@ -616,6 +731,52 @@
       \verb https://math.stackexchange.com/q/2660480
       \endverb
     \endentry
+    \entry{iftekharuddin2003fractal}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ff9bb9cf08086cc1e959ca0d5067b947}{%
+           family={Iftekharuddin},
+           familyi={I\bibinitperiod},
+           given={Khan\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=06a3261191e8a8374ae5ea255505437d}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04ae31d624d80ef70260234fff2db454}{%
+           family={Marsh},
+           familyi={M\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{5a19e8ddd5b6896add7783b133bc954a}
+      \strng{fullhash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{fullhashraw}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{bibnamehash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authorbibnamehash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authornamehash}{5a19e8ddd5b6896add7783b133bc954a}
+      \strng{authorfullhash}{5bab632edaa9b88910d7f70ae0be4693}
+      \strng{authorfullhashraw}{5bab632edaa9b88910d7f70ae0be4693}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Vision and Applications}
+      \field{title}{Fractal analysis of tumor in brain MR images}
+      \field{volume}{13}
+      \field{year}{2003}
+      \field{pages}{352\bibrangedash 362}
+      \range{pages}{11}
+    \endentry
     \entry{sierpinski2016}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3a157b3b9e65a4cc05e6ba040341c52b}{%
@@ -757,6 +918,75 @@
       \field{year}{2017}
       \verb{doi}
       \verb 10.1088/1751-8121/aa80b0
+      \endverb
+    \endentry
+    \entry{uahabi2015applications}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a9d3d76ba7c7469ce0f5702aaf61e20b}{%
+           family={Uahabi},
+           familyi={U\bibinitperiod},
+           given={Kaoutar\bibnamedelima Lamrini},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e11f4cea82a72fcc2e5f0e54a3b24e5}{%
+           family={Atounti},
+           familyi={A\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{fullhash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{fullhashraw}{a0d4e594008c9070806942ea67d35abb}
+      \strng{bibnamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorbibnamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authornamehash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorfullhash}{a0d4e594008c9070806942ea67d35abb}
+      \strng{authorfullhashraw}{a0d4e594008c9070806942ea67d35abb}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annals of the University of Craiova-Mathematics and Computer Science Series}
+      \field{number}{1}
+      \field{title}{Applications of fractals in medicine}
+      \field{volume}{42}
+      \field{year}{2015}
+      \field{pages}{167\bibrangedash 174}
+      \range{pages}{8}
+    \endentry
+    \entry{enwiki:1262008950}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 31-March-2025]}
+      \field{title}{Contact geometry --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
       \endverb
     \endentry
   \enddatalist
