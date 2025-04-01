@@ -3088,14 +3088,14 @@
     <bcf:citekey order="16" intorder="1">adams2004knot</bcf:citekey>
     <bcf:citekey order="17" intorder="1">iftekharuddin2003fractal</bcf:citekey>
     <bcf:citekey order="18" intorder="1">uahabi2015applications</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">Quanta</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">cantor</bcf:citekey>
-    <bcf:citekey order="21" intorder="1">sierpinski2016</bcf:citekey>
-    <bcf:citekey order="22" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">takayasu2009fractals</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">LOEHLE1996271</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">sangavi2019image</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">sala2021fractal</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">lorenz2002fractals</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">Quanta</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">cantor</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">sierpinski2016</bcf:citekey>
     <bcf:citekey order="27" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="28" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="29" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
@@ -3110,14 +3110,19 @@
     <bcf:citekey order="38" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="39" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="40" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="41" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="41" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="42" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="43" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
     <bcf:citekey order="44" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="45" intorder="1">knotinfo</bcf:citekey>
-    <bcf:citekey order="46" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
-    <bcf:citekey order="47" intorder="1">knotinfo</bcf:citekey>
-    <bcf:citekey order="48" intorder="1">enwiki:1262008950</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
+    <bcf:citekey order="50" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="51" intorder="1">broden2024knotsinsidefractals</bcf:citekey>
+    <bcf:citekey order="52" intorder="1">knotinfo</bcf:citekey>
+    <bcf:citekey order="53" intorder="1">enwiki:1262008950</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

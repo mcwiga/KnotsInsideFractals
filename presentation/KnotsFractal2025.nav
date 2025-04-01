@@ -138,12 +138,14 @@
 \headcommand {\beamer@framepages {70}{71}}
 \headcommand {\slideentry {7}{0}{0}{70/72}{}{0}}
 \headcommand {\beamer@framepages {70}{72}}
-\headcommand {\slideentry {7}{0}{1}{73/73}{}{0}}
-\headcommand {\beamer@framepages {73}{73}}
-\headcommand {\slideentry {7}{0}{2}{74/74}{}{0}}
+\headcommand {\slideentry {7}{0}{0}{70/73}{}{0}}
+\headcommand {\beamer@framepages {70}{73}}
+\headcommand {\slideentry {7}{0}{1}{74/74}{}{0}}
 \headcommand {\beamer@framepages {74}{74}}
-\headcommand {\beamer@partpages {1}{74}}
-\headcommand {\beamer@subsectionpages {46}{74}}
-\headcommand {\beamer@sectionpages {46}{74}}
-\headcommand {\beamer@documentpages {74}}
-\headcommand {\gdef \inserttotalframenumber {61}}
+\headcommand {\slideentry {7}{0}{2}{75/75}{}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\beamer@partpages {1}{75}}
+\headcommand {\beamer@subsectionpages {46}{75}}
+\headcommand {\beamer@sectionpages {46}{75}}
+\headcommand {\beamer@documentpages {75}}
+\headcommand {\gdef \inserttotalframenumber {62}}

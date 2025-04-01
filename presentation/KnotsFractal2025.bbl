@@ -395,6 +395,85 @@
       \field{title}{KnotInfo: Table of Knot Invariants}
       \field{year}{2025}
     \endentry
+    \entry{LOEHLE1996271}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b1fb6763239d37f994921791dccae00c}{%
+           family={Loehle},
+           familyi={L\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3143648985e3e686c3078c65236bb90}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bai-Lian},
+           giveni={B\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{fullhash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{fullhashraw}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{bibnamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorbibnamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authornamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorfullhash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorfullhashraw}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-3800}
+      \field{journaltitle}{Ecological Modelling}
+      \field{number}{2}
+      \field{title}{Statistical properties of ecological and geologic fractals}
+      \field{volume}{85}
+      \field{year}{1996}
+      \field{pages}{271\bibrangedash 284}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0304-3800(94)00177-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0304380094001774
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0304380094001774
+      \endverb
+      \keyw{Geostatistics,Fractal dimensions,Sampling theory,Spatial patterns}
+    \endentry
+    \entry{lorenz2002fractals}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4744f188f7e996e936bfee3c707ab707}{%
+           family={Lorenz},
+           familyi={L\bibinitperiod},
+           given={Wolfgang\bibnamedelima E},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {na}%
+      }
+      \strng{namehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{fullhash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{fullhashraw}{4744f188f7e996e936bfee3c707ab707}
+      \strng{bibnamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorbibnamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authornamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorfullhash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorfullhashraw}{4744f188f7e996e936bfee3c707ab707}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fractals and fractal architecture}
+      \field{year}{2002}
+    \endentry
     \entry{article}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=77d3060fe63039627649ba3a97ef1634}{%
@@ -433,6 +512,114 @@
       \verb{doi}
       \verb 10.1088/1751-8121/aa80b0
       \endverb
+    \endentry
+    \entry{sala2021fractal}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5a557c059e64d5f5bc25fdceb453c70}{%
+           family={Sala},
+           familyi={S\bibinitperiod},
+           given={Nicoletta},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{fullhash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{fullhashraw}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{bibnamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorbibnamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authornamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorfullhash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorfullhashraw}{e5a557c059e64d5f5bc25fdceb453c70}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos \& Complexity Letters}
+      \field{title}{FRACTAL GEOMETRY IN COMPUTER GRAPHICS AND IN VIRTUAL REALITY.}
+      \field{volume}{15}
+      \field{year}{2021}
+    \endentry
+    \entry{sangavi2019image}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5e7caf6bd6df446f6126f7dea2cc7ca0}{%
+           family={Sangavi},
+           familyi={S\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6746ce98860af018805cc8e7c6946ef}{%
+           family={Thangavel},
+           familyi={T\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{fullhash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{fullhashraw}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{bibnamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorbibnamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authornamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorfullhash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorfullhashraw}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{An image encryption algorithm based on fractal geometry}
+      \field{volume}{165}
+      \field{year}{2019}
+      \field{pages}{462\bibrangedash 469}
+      \range{pages}{8}
+    \endentry
+    \entry{takayasu2009fractals}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=7c4b013400ebb7bf902ef51a7d1b11f5}{%
+           family={Takayasu},
+           familyi={T\bibinitperiod},
+           given={Misako},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=f3609300b61133601f024855bf40a452}{%
+           family={Takayasu},
+           familyi={T\bibinitperiod},
+           given={Hideki},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{fullhash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{fullhashraw}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{bibnamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorbibnamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authornamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorfullhash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorfullhashraw}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Complex systems in finance and econometrics}
+      \field{title}{Fractals and economics}
+      \field{year}{2009}
+      \field{pages}{444\bibrangedash 463}
+      \range{pages}{20}
     \endentry
     \entry{uahabi2015applications}{article}{}{}
       \name{author}{2}{}{%
@@ -881,6 +1068,85 @@
       \field{title}{KnotInfo: Table of Knot Invariants}
       \field{year}{2025}
     \endentry
+    \entry{LOEHLE1996271}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b1fb6763239d37f994921791dccae00c}{%
+           family={Loehle},
+           familyi={L\bibinitperiod},
+           given={Craig},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3143648985e3e686c3078c65236bb90}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bai-Lian},
+           giveni={B\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{fullhash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{fullhashraw}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{bibnamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorbibnamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authornamehash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorfullhash}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \strng{authorfullhashraw}{bf7d2114d3700b4c61d3dc0100ab7d2a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-3800}
+      \field{journaltitle}{Ecological Modelling}
+      \field{number}{2}
+      \field{title}{Statistical properties of ecological and geologic fractals}
+      \field{volume}{85}
+      \field{year}{1996}
+      \field{pages}{271\bibrangedash 284}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0304-3800(94)00177-4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0304380094001774
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0304380094001774
+      \endverb
+      \keyw{Geostatistics,Fractal dimensions,Sampling theory,Spatial patterns}
+    \endentry
+    \entry{lorenz2002fractals}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4744f188f7e996e936bfee3c707ab707}{%
+           family={Lorenz},
+           familyi={L\bibinitperiod},
+           given={Wolfgang\bibnamedelima E},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {na}%
+      }
+      \strng{namehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{fullhash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{fullhashraw}{4744f188f7e996e936bfee3c707ab707}
+      \strng{bibnamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorbibnamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authornamehash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorfullhash}{4744f188f7e996e936bfee3c707ab707}
+      \strng{authorfullhashraw}{4744f188f7e996e936bfee3c707ab707}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fractals and fractal architecture}
+      \field{year}{2002}
+    \endentry
     \entry{article}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=77d3060fe63039627649ba3a97ef1634}{%
@@ -919,6 +1185,114 @@
       \verb{doi}
       \verb 10.1088/1751-8121/aa80b0
       \endverb
+    \endentry
+    \entry{sala2021fractal}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e5a557c059e64d5f5bc25fdceb453c70}{%
+           family={Sala},
+           familyi={S\bibinitperiod},
+           given={Nicoletta},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{fullhash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{fullhashraw}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{bibnamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorbibnamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authornamehash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorfullhash}{e5a557c059e64d5f5bc25fdceb453c70}
+      \strng{authorfullhashraw}{e5a557c059e64d5f5bc25fdceb453c70}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chaos \& Complexity Letters}
+      \field{title}{FRACTAL GEOMETRY IN COMPUTER GRAPHICS AND IN VIRTUAL REALITY.}
+      \field{volume}{15}
+      \field{year}{2021}
+    \endentry
+    \entry{sangavi2019image}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5e7caf6bd6df446f6126f7dea2cc7ca0}{%
+           family={Sangavi},
+           familyi={S\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6746ce98860af018805cc8e7c6946ef}{%
+           family={Thangavel},
+           familyi={T\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{fullhash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{fullhashraw}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{bibnamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorbibnamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authornamehash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorfullhash}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \strng{authorfullhashraw}{9aba0daa3e6c1588a56253a4b7b30ecb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Procedia Computer Science}
+      \field{title}{An image encryption algorithm based on fractal geometry}
+      \field{volume}{165}
+      \field{year}{2019}
+      \field{pages}{462\bibrangedash 469}
+      \range{pages}{8}
+    \endentry
+    \entry{takayasu2009fractals}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=7c4b013400ebb7bf902ef51a7d1b11f5}{%
+           family={Takayasu},
+           familyi={T\bibinitperiod},
+           given={Misako},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=f3609300b61133601f024855bf40a452}{%
+           family={Takayasu},
+           familyi={T\bibinitperiod},
+           given={Hideki},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{fullhash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{fullhashraw}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{bibnamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorbibnamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authornamehash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorfullhash}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \strng{authorfullhashraw}{67fa4bb8475078fc2ecbf00f4f759c69}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Complex systems in finance and econometrics}
+      \field{title}{Fractals and economics}
+      \field{year}{2009}
+      \field{pages}{444\bibrangedash 463}
+      \range{pages}{20}
     \endentry
     \entry{uahabi2015applications}{article}{}{}
       \name{author}{2}{}{%
