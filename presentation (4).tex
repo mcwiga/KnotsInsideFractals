@@ -15,6 +15,9 @@
 \usepackage{textcomp}
 \usepackage{setspace}
 \usepackage{gensymb}
+\usepackage{hyperref}
+\usepackage[backend=biber,style=apa]{biblatex}
+\addbibresource{ref.bib}
 
 %----------------------------------
 % Fill in the essential Information
@@ -43,20 +46,28 @@
 % FRAME 1 
 \section{Knot}
 \begin{frame}{What is a knot}
+\begin{figure}
 \centering
 \includegraphics[width=7cm]{Pictures/images.jpg}
 \includegraphics[width=3cm]{Pictures/chineseknot.png}
-
+\caption{Knots in daily life (\cite{Knotsdailylife} and \cite{Chineseknot})}
+    \label{fig:enter-label}
+\end{figure}
 \end{frame}
 
 % FRAME 2
 \begin{frame}{What is a knot}
     \begin{itemize}
-        \item Composite knots
+        \item Link
     \end{itemize}
+\begin{figure}
 \centering
 \includegraphics[width = 4.9cm]{Pictures/audi.jpg}
 \includegraphics[width = 4cm]{Pictures/borromean.png}
+    \caption{Links in logos(\cite{audi} and \cite{christiantrequetra})}
+    \label{fig:enter-label}
+\end{figure}
+
 
 \end{frame}
 
@@ -76,8 +87,13 @@
 \begin{itemize}
     \item Peter Guthrie Tait and Lord Kelvin (19th century): During the research on composition of atoms, they conjectured that atoms are made out of vortex ring of ether.
 \end{itemize}
-\centering
+\begin{figure}
+    \centering
 \includegraphics[width=5cm]{Pictures/simple knots.png}
+    \caption{Simple knots(\cite{simpleknots})}
+    \label{fig:enter-label}
+\end{figure}
+
 \end{frame}
 
 % FRAME 5
@@ -85,6 +101,12 @@
 \begin{itemize}
     \item The structure of protein and DNA
 \end{itemize}
+\begin{figure}
+    \centering
+\includegraphics[width=7cm]{Pictures/DNA.png}
+    \caption{DNA (\cite{DNA})}
+    \label{fig:enter-label}
+\end{figure}
 \centering
 \includegraphics[width=7cm]{Pictures/DNA.png}
 \end{frame}
@@ -94,9 +116,14 @@
 \begin{itemize}
     \item The knot structure of chemical compound and material
 \end{itemize}
-\centering
+\begin{figure}
+    \centering
 \includegraphics[width = 4.5cm]{Pictures/chemical.png}
 \includegraphics[width=4.5cm]{Pictures/material.jpg}
+    \caption{Tightest synthetic compound (\cite{compound} and \cite{farbric})}
+    \label{fig:enter-label}
+\end{figure}
+
 \end{frame}
 
 % FRAME 7
@@ -104,10 +131,11 @@
 \begin{itemize}
     \item How to represent a knot? Regular projection.
 \end{itemize}
-\begin{itemize}
-    \item A knot projection is called a regular projection if no three points on the knot project to the same point, and no vertex
+\begin{kulblock}{Definition}
+    A knot projection is called a regular projection if no three points on the knot project to the same point, and no vertex
 projects to the same point as any other point on the knot.
-\end{itemize}
+\end{kulblock}
+    
 \end{frame}
 
 % FRAME 8
@@ -117,9 +145,13 @@ projects to the same point as any other point on the knot.
     \item A knot diagram is the regular projection of a knot to the plane with broken
 lines indicating where one part of the knot undercrosses the other part.
 \end{itemize}
-\centering
+\begin{figure}
+    \centering
 \includegraphics[width=3cm]{Pictures/trefoil.png}
 \includegraphics[width=3cm]{Pictures/31.png}
+    \caption{Trefoil diagram (\cite{trefoil})}
+    \label{fig:enter-label}
+\end{figure}
 \end{frame}
 
 % FRAME 9
@@ -127,9 +159,14 @@ lines indicating where one part of the knot undercrosses the other part.
 \begin{itemize}
     \item Are they equivalent?
 \end{itemize}
-\centering
+\begin{figure}
+   \centering
     \includegraphics[width = 4cm]{Pictures/Simple.png}
     \includegraphics[width = 4cm]{Pictures/complex.png}
+    \caption{Knot unfolding (\cite{knotsunfolding})}
+    \label{fig:enter-label}
+\end{figure}
+
 \end{frame}
 
 
@@ -138,15 +175,20 @@ lines indicating where one part of the knot undercrosses the other part.
 \begin{itemize}
     \item Equivalence of knot?
 \end{itemize}
-\centering
-\includegraphics[width=7cm]{Pictures/equivalence.png}
+\begin{figure}
+   \centering
+\includegraphics[width=7cm, height = 2cm]{Pictures/equivalence.png} 
+    \caption{Equivalence? (\cite{Equivalence})}
+    \label{fig:enter-label}
+\end{figure}
+
 
 \begin{itemize}
     \item Formal definition: two knots $\mathbf{K}_1$ and $\mathbf{K}_2$ are equivalent if there is an orientation-preserving homeomorphism $h:\mathbb{R}^3 \rightarrow \mathbb{R}^3$ with $h(\mathbf{K}_1) = h(\mathbf{K}_2)$.
 \end{itemize}
 
 \begin{itemize}
-    \item Reidemeister's Theorem: If two knots are equivalent, their diagrams are related by a sequence of Reidemeister moves.
+    \item (1927)Reidemeister's Theorem(\cite{Reidemeister}): If two knots are equivalent, their diagrams are related by a sequence of Reidemeister moves.
 \end{itemize}
 \end{frame}
 
@@ -156,25 +198,34 @@ lines indicating where one part of the knot undercrosses the other part.
     \item A Reidemeister move is an operation that can be performed on the diagram
 of a knot whithout altering the corresponding knot.
 \end{itemize}
-\centering
+\begin{figure}
+    \centering
 \includegraphics[width=7cm]{Pictures/r.png}
+    \caption{Equivalence? (\cite{reidemeister})}
+    \label{fig:enter-label}
+\end{figure}
+
 \end{frame}
 
 % FRAME 12
 \begin{frame}{Invariant polynomial}
     \begin{itemize}
-        \item 1923(James Waddell Alexander): Alexander polynomial $\triangledown$. Reformulated by John Conway in 1969.
-\centering
-\includegraphics[width =7cm]{Pictures/L.png}
+        \item 1923(James Waddell Alexander)(\cite{Alexander}): Alexander polynomial $\triangledown$. Reformulated by John Conway in 1969.
+\begin{figure}
+   \centering
+\includegraphics[width =7cm, height = 2.5cm]{Pictures/L.png}
+    \caption{3 variations (\cite{L+})}
+    \label{fig:enter-label}
+\end{figure}
         $$\triangledown(O) = 1$$
-        $$\triangledown(L^+) - \triangledown(L^-) = z\triangledown(L_0)$$
+        $$\triangledown(L_+) - \triangledown(L_-) = z\triangledown(L_0)$$
     \end{itemize}
 \end{frame}
 
 % FRAME 13
 \begin{frame}{Invariant polynomial}
 \begin{itemize}
-    \item 1984(Vaughan Jones): Jones polynomial $V$. Jones won the field's medal for this discovery in 1990.
+    \item 1984(Vaughan Jones)(\cite{Jones}): Jones polynomial $V$. Jones won the field's medal for this discovery in 1990.
     $$V(L_0) = 1$$
     $$t^{-1}V(L_+) - tV(L_-) = (t^{\frac{1}{2}} - t^{-\frac{1}{2}})V(L_0)$$
     \item 1985(multiple authors): HOMFLY-PT polynomial $P$: A generalization of the above invariants.
@@ -186,30 +237,55 @@ of a knot whithout altering the corresponding knot.
 
 % FRAME 14
 \begin{frame}{Fractals}
-\centering
+\begin{figure}
+    \centering
 \includegraphics[width = 8cm]{Pictures/fractalcover.jpg}
+    \caption{Fractal (\cite{fractalcover})}
+    \label{fig:enter-label}
+\end{figure}
+
 \end{frame}
 
 % FRAME 15
 \begin{frame}{Motivation}
 \begin{itemize}
-    \item Structure of Coastline
+    \item Coastline
     \item Lungs
-    
+\begin{figure}
     \centering
     \includegraphics[width = 5cm]{Pictures/coastline.jpg}
     \includegraphics[height = 3.4cm, width  = 4cm]{Pictures/lungs.jpg}
+    \caption{Coastline and lung (\cite{COastline} and \cite{Lung})}
+    \label{fig:enter-label}
+\end{figure}
+    
 \end{itemize}
 \end{frame}
 
-% FRAME 16
-\begin{frame}{Some applications}
-    \begin{itemize}
-        \item Computer simulation: Fractal landscape
-        \item Sphere packing: Fractal dimension
 
-        \centering
-        \includegraphics[width=7cm]{Pictures/spherepacking.png}
+
+% FRAME 16
+\begin{frame}{Motivation}
+    \begin{itemize}
+        \item 1872: Karl Weierstrass constructed a function that is continuous but nowhere differentiable:
+        $$f(x) = \sum\limits_{n=0}^{\infty}a^ncos(b^n\pi x)$$
+    \end{itemize}
+    \begin{itemize}
+        \item 1904: Helge von Koch devised a geometric method to construct pathological curves.
+    \end{itemize}
+    \begin{itemize}
+        \item 1915: Wacław Sierpiński introduced Sierpiński triangle.
+    \end{itemize}
+    \begin{itemize}
+        \item 1918: Gaston Julia & Pierre Fatou studied iteration of complex functions.
     \end{itemize}
 \end{frame}
+
+% FRAME 17
+\begin{frame}[allowframebreaks]{References}
+\nocite{*}
+\printbibliography
+\end{frame}
+
+
 \end{document}
