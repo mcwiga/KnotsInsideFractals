@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.1)  3 APR 2025 18:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.4.1)  3 APR 2025 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5803,9 +5803,6 @@ File: Pictures/fractalcover.jpg Graphic file (type jpg)
 Package pdftex.def Info: Pictures/fractalcover.jpg  used on input line 12.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
-LaTeX Warning: Citation 'fractalcover' on page 31 undefined on input line 12.
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
 el}) has been already used, duplicate ignored
 <to be read again> 
@@ -5830,22 +5827,16 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 28.
 
-<Pictures/coastline.jpg, id=469, 470.75874pt x 311.1625pt>
+<Pictures/coastline.jpg, id=471, 470.75874pt x 311.1625pt>
 File: Pictures/coastline.jpg Graphic file (type jpg)
 <use Pictures/coastline.jpg>
 Package pdftex.def Info: Pictures/coastline.jpg  used on input line 28.
 (pdftex.def)             Requested size: 142.26378pt x 94.03317pt.
-<Pictures/lungs.jpg, id=470, 170.6375pt x 175.65625pt>
+<Pictures/lungs.jpg, id=472, 170.6375pt x 175.65625pt>
 File: Pictures/lungs.jpg Graphic file (type jpg)
 <use Pictures/lungs.jpg>
 Package pdftex.def Info: Pictures/lungs.jpg  used on input line 28.
 (pdftex.def)             Requested size: 113.81358pt x 96.74255pt.
-
-LaTeX Warning: Citation 'COastline' on page 32 undefined on input line 28.
-
-
-LaTeX Warning: Citation 'Lung' on page 32 undefined on input line 28.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
 el}) has been already used, duplicate ignored
@@ -6805,7 +6796,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 58.
 
-<images/Koch1.png, id=485, 714.41907pt x 444.91219pt>
+<images/Koch1.png, id=491, 714.41907pt x 444.91219pt>
 File: images/Koch1.png Graphic file (type png)
 <use images/Koch1.png>
 Package pdftex.def Info: images/Koch1.png  used on input line 58.
@@ -6828,7 +6819,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 67.
 
-<images/mandelbrot.jpg, id=495, 192.72pt x 144.54pt>
+<images/mandelbrot.jpg, id=501, 192.72pt x 144.54pt>
 File: images/mandelbrot.jpg Graphic file (type jpg)
 <use images/mandelbrot.jpg>
 Package pdftex.def Info: images/mandelbrot.jpg  used on input line 67.
@@ -7034,7 +7025,7 @@ l.80 \end{frame}
 I'm forgetting what you said and using zero instead.
 
 <../../../../../../Desktop/Cube/signs-line-straight-minus-horizontal-png-icon-1
-4.png, id=504, 301.125pt x 301.125pt>
+4.png, id=510, 301.125pt x 301.125pt>
 File: ../../../../../../Desktop/Cube/signs-line-straight-minus-horizontal-png-i
 con-14.png Graphic file (type png)
 <use ../../../../../../Desktop/Cube/signs-line-straight-minus-horizontal-png-ic
@@ -7042,12 +7033,12 @@ on-14.png>
 Package pdftex.def Info: ../../../../../../Desktop/Cube/signs-line-straight-min
 us-horizontal-png-icon-14.png  used on input line 80.
 (pdftex.def)             Requested size: 82.64755pt x 82.6465pt.
-<MichaelImages/Square.png, id=505, 2055.68pt x 2055.68pt>
+<MichaelImages/Square.png, id=511, 2055.68pt x 2055.68pt>
 File: MichaelImages/Square.png Graphic file (type png)
 <use MichaelImages/Square.png>
 Package pdftex.def Info: MichaelImages/Square.png  used on input line 80.
 (pdftex.def)             Requested size: 103.31102pt x 103.29189pt.
-<MichaelImages/Sierpinski_triangle.svg.png, id=506, 1204.5pt x 1042.89626pt>
+<MichaelImages/Sierpinski_triangle.svg.png, id=512, 1204.5pt x 1042.89626pt>
 File: MichaelImages/Sierpinski_triangle.svg.png Graphic file (type png)
 <use MichaelImages/Sierpinski_triangle.svg.png>
 Package pdftex.def Info: MichaelImages/Sierpinski_triangle.svg.png  used on inp
@@ -7252,7 +7243,7 @@ l.97 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
-<MichaelImages/Great_Britain_Box.svg.png, id=519, 451.6875pt x 250.9375pt>
+<MichaelImages/Great_Britain_Box.svg.png, id=525, 451.6875pt x 250.9375pt>
 File: MichaelImages/Great_Britain_Box.svg.png Graphic file (type png)
 <use MichaelImages/Great_Britain_Box.svg.png>
 Package pdftex.def Info: MichaelImages/Great_Britain_Box.svg.png  used on input
@@ -8593,18 +8584,18 @@ l.14 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
-<MichaelImages/Cube.png, id=565, 987.69pt x 988.69376pt>
+<MichaelImages/Cube.png, id=571, 987.69pt x 988.69376pt>
 File: MichaelImages/Cube.png Graphic file (type png)
 <use MichaelImages/Cube.png>
 Package pdftex.def Info: MichaelImages/Cube.png  used on input line 14.
 (pdftex.def)             Requested size: 103.31102pt x 103.40103pt.
-<MichaelImages/FirstIterationCube.png, id=566, 958.58125pt x 1001.7425pt>
+<MichaelImages/FirstIterationCube.png, id=572, 958.58125pt x 1001.7425pt>
 File: MichaelImages/FirstIterationCube.png Graphic file (type png)
 <use MichaelImages/FirstIterationCube.png>
 Package pdftex.def Info: MichaelImages/FirstIterationCube.png  used on input li
 ne 14.
 (pdftex.def)             Requested size: 103.31102pt x 107.96034pt.
-<MichaelImages/SecondIterationCube.png, id=567, 957.5775pt x 983.675pt>
+<MichaelImages/SecondIterationCube.png, id=573, 957.5775pt x 983.675pt>
 File: MichaelImages/SecondIterationCube.png Graphic file (type png)
 <use MichaelImages/SecondIterationCube.png>
 Package pdftex.def Info: MichaelImages/SecondIterationCube.png  used on input l
@@ -8634,7 +8625,7 @@ Images/SecondIterationCube.png>]
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 24.
 
-<UnknotTwo.png, id=580, 784.9325pt x 735.74875pt>
+<UnknotTwo.png, id=586, 784.9325pt x 735.74875pt>
 File: UnknotTwo.png Graphic file (type png)
 <use UnknotTwo.png>
 Package pdftex.def Info: UnknotTwo.png  used on input line 24.
@@ -8662,7 +8653,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 31.
 
-<NotAKnot.png, id=589, 815.045pt x 771.88374pt>
+<NotAKnot.png, id=595, 815.045pt x 771.88374pt>
 File: NotAKnot.png Graphic file (type png)
 <use NotAKnot.png>
 Package pdftex.def Info: NotAKnot.png  used on input line 31.
@@ -8690,17 +8681,17 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 47.
 
-<NoCubeTrefoil.png, id=598, 790.955pt x 854.19125pt>
+<NoCubeTrefoil.png, id=604, 790.955pt x 854.19125pt>
 File: NoCubeTrefoil.png Graphic file (type png)
 <use NoCubeTrefoil.png>
 Package pdftex.def Info: NoCubeTrefoil.png  used on input line 47.
 (pdftex.def)             Requested size: 97.836pt x 105.65273pt.
-<TreFoilKnot.png, id=599, 1107.13625pt x 1020.81375pt>
+<TreFoilKnot.png, id=605, 1107.13625pt x 1020.81375pt>
 File: TreFoilKnot.png Graphic file (type png)
 <use TreFoilKnot.png>
 Package pdftex.def Info: TreFoilKnot.png  used on input line 47.
 (pdftex.def)             Requested size: 117.40439pt x 108.24pt.
-<UnravelledTrefoil.png, id=600, 941.5175pt x 779.91376pt>
+<UnravelledTrefoil.png, id=606, 941.5175pt x 779.91376pt>
 File: UnravelledTrefoil.png Graphic file (type png)
 <use UnravelledTrefoil.png>
 Package pdftex.def Info: UnravelledTrefoil.png  used on input line 47.
@@ -9091,7 +9082,7 @@ l.61 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
-<PhotoOfAuthors.png, id=612, 868.4445pt x 369.17924pt>
+<PhotoOfAuthors.png, id=618, 868.4445pt x 369.17924pt>
 File: PhotoOfAuthors.png Graphic file (type png)
 <use PhotoOfAuthors.png>
 Package pdftex.def Info: PhotoOfAuthors.png  used on input line 61.
@@ -9301,7 +9292,7 @@ l.74 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
-<Cantor_set_in_seven_iterations.svg.png, id=624, 1098.1025pt x 178.6675pt>
+<Cantor_set_in_seven_iterations.svg.png, id=630, 1098.1025pt x 178.6675pt>
 File: Cantor_set_in_seven_iterations.svg.png Graphic file (type png)
 <use Cantor_set_in_seven_iterations.svg.png>
 Package pdftex.def Info: Cantor_set_in_seven_iterations.svg.png  used on input 
@@ -9330,7 +9321,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 84.
 
-<cantordust.png, id=635, 730.73pt x 498.86375pt>
+<cantordust.png, id=641, 730.73pt x 498.86375pt>
 File: cantordust.png Graphic file (type png)
 <use cantordust.png>
 Package pdftex.def Info: cantordust.png  used on input line 84.
@@ -9360,7 +9351,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 96.
-<Carpet.jpg, id=645, 220.69026pt x 220.69026pt>
+<Carpet.jpg, id=651, 220.69026pt x 220.69026pt>
 File: Carpet.jpg Graphic file (type jpg)
 <use Carpet.jpg>
 Package pdftex.def Info: Carpet.jpg  used on input line 96.
@@ -9388,7 +9379,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 112.
 
-<ProofOfPointsOnSponge.png, id=656, 344.487pt x 166.221pt>
+<ProofOfPointsOnSponge.png, id=662, 344.487pt x 166.221pt>
 File: ProofOfPointsOnSponge.png Graphic file (type png)
 <use ProofOfPointsOnSponge.png>
 Package pdftex.def Info: ProofOfPointsOnSponge.png  used on input line 112.
@@ -9443,7 +9434,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 131.
 
-<MichaelImages/arc_index_fig1.png, id=676, 246.9225pt x 364.36125pt>
+<MichaelImages/arc_index_fig1.png, id=682, 246.9225pt x 364.36125pt>
 File: MichaelImages/arc_index_fig1.png Graphic file (type png)
 <use MichaelImages/arc_index_fig1.png>
 Package pdftex.def Info: MichaelImages/arc_index_fig1.png  used on input line 1
@@ -9866,7 +9857,7 @@ l.166 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
-<KnotOnFace.png, id=704, 138.5175pt x 134.30174pt>
+<KnotOnFace.png, id=710, 138.5175pt x 134.30174pt>
 File: KnotOnFace.png Graphic file (type png)
 <use KnotOnFace.png>
 Package pdftex.def Info: KnotOnFace.png  used on input line 166.
@@ -10129,12 +10120,12 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 19.
 
-<images/SierpinskiTet.png, id=596, 511.15968pt x 292.09125pt>
+<images/SierpinskiTet.png, id=746, 511.15968pt x 292.09125pt>
 File: images/SierpinskiTet.png Graphic file (type png)
 <use images/SierpinskiTet.png>
 Package pdftex.def Info: images/SierpinskiTet.png  used on input line 19.
 (pdftex.def)             Requested size: 206.62204pt x 118.06898pt.
-<images/SierpinskiTet2.png, id=597, 511.15968pt x 292.09125pt>
+<images/SierpinskiTet2.png, id=747, 511.15968pt x 292.09125pt>
 File: images/SierpinskiTet2.png Graphic file (type png)
 <use images/SierpinskiTet2.png>
 Package pdftex.def Info: images/SierpinskiTet2.png  used on input line 19.
@@ -10558,7 +10549,227 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 ! LaTeX Error: There's no line here to end.
 
-<images/CombRep1.png, id=753, 252.945pt x 193.47281pt>
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\enit@enditemize ->\enit@after 
+                               \endlist \ifx \enit@series \relax \else \ifnu...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@enditemize ...x \else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.41 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+\enit@enditemize ...ist \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.41 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 41.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 41.
+
+[59
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 51.
+
+<images/CombRep1.png, id=771, 252.945pt x 193.47281pt>
 File: images/CombRep1.png Graphic file (type png)
 <use images/CombRep1.png>
 Package pdftex.def Info: images/CombRep1.png  used on input line 51.
@@ -10579,14 +10790,14 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 51.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 51.
 
-[59
+[60
 
  <./images/CombRep1.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 61.
 
-<images/CombRep2.png, id=763, 401.24907pt x 304.88907pt>
+<images/CombRep2.png, id=781, 401.24907pt x 304.88907pt>
 File: images/CombRep2.png Graphic file (type png)
 <use images/CombRep2.png>
 Package pdftex.def Info: images/CombRep2.png  used on input line 61.
@@ -10607,14 +10818,14 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 61.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 61.
 
-[60
+[61
 
  <./images/CombRep2.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 71.
 
-<images/CombRep3.png, id=774, 548.0475pt x 383.93437pt>
+<images/CombRep3.png, id=793, 548.0475pt x 383.93437pt>
 File: images/CombRep3.png Graphic file (type png)
 <use images/CombRep3.png>
 Package pdftex.def Info: images/CombRep3.png  used on input line 71.
@@ -10635,7 +10846,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 71.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 71.
 
-[61
+[62
 
  <./images/CombRep3.png>]
 
@@ -10830,200 +11041,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
-
-[62
-
-]
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.73 \end{frame}
-                
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.73 \end{frame}
-                
-I'm forgetting what you said and using zero instead.
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 73.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
+(hyperref)                setting the option has no effect on input line 90.
 
 [63
 
@@ -11596,8 +11614,6 @@ l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
-
-
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
@@ -11606,7 +11622,14 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 90.
 
-<images/Helix1.png, id=818, 599.99156pt x 237.88875pt>
+[66
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 99.
+
+<images/Helix1.png, id=836, 599.99156pt x 237.88875pt>
 File: images/Helix1.png Graphic file (type png)
 <use images/Helix1.png>
 Package pdftex.def Info: images/Helix1.png  used on input line 99.
@@ -11623,39 +11646,24 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 99.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 99.
 
-[66
+[67
 
  <./images/Helix1.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 98.
-
-<images/SimplifiedPretzelKnot.png, id=829, 230.36063pt x 130.23656pt>
-File: images/SimplifiedPretzelKnot.png Graphic file (type png)
-<use images/SimplifiedPretzelKnot.png>
-Package pdftex.def Info: images/SimplifiedPretzelKnot.png  used on input line 9
-8.
-(pdftex.def)             Requested size: 165.2951pt x 93.4503pt.
-<images/ConnectHelices.png, id=832, 379.4175pt x 219.06844pt>
-File: images/ConnectHelices.png Graphic file (type png)
-<use images/ConnectHelices.png>
-Package pdftex.def Info: images/ConnectHelices.png  used on input line 98.
-(pdftex.def)             Requested size: 247.94896pt x 143.1616pt.
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 98.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 98.
-
-[67
-
- <./images/SimplifiedPretzelKnot.png> <./images/ConnectHelices.png>]
-
-Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 115.
 
+<images/SimplifiedPretzelKnot.png, id=848, 230.36063pt x 130.23656pt>
+File: images/SimplifiedPretzelKnot.png Graphic file (type png)
+<use images/SimplifiedPretzelKnot.png>
+Package pdftex.def Info: images/SimplifiedPretzelKnot.png  used on input line 1
+15.
+(pdftex.def)             Requested size: 165.2951pt x 93.4503pt.
+<images/ConnectHelices.png, id=851, 379.4175pt x 219.06844pt>
+File: images/ConnectHelices.png Graphic file (type png)
+<use images/ConnectHelices.png>
+Package pdftex.def Info: images/ConnectHelices.png  used on input line 115.
+(pdftex.def)             Requested size: 247.94896pt x 143.1616pt.
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 115.
@@ -11666,12 +11674,15 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 [68
 
-]
+ <./images/SimplifiedPretzelKnot.png> <./images/ConnectHelices.png>]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 132.
+
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 132.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 132.
@@ -11691,18 +11702,28 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 [70
 
 ]
-
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 132.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
-<images/Comparison1.png, id=869, 149.8097pt x 150.5625pt>
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 132.
+
+[71
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 158.
+
+<images/Comparison1.png, id=887, 149.8097pt x 150.5625pt>
 File: images/Comparison1.png Graphic file (type png)
 <use images/Comparison1.png>
 Package pdftex.def Info: images/Comparison1.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
-<images/Comparison2.png, id=870, 183.68625pt x 183.68625pt>
+<images/Comparison2.png, id=889, 183.68625pt x 183.68625pt>
 File: images/Comparison2.png Graphic file (type png)
 <use images/Comparison2.png>
 Package pdftex.def Info: images/Comparison2.png  used on input line 158.
@@ -11897,7 +11918,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 158.
 
-[71
+[72
 
  <./images/Comparison1.png> <./images/Comparison2.png>]
 File: images/Comparison1.png Graphic file (type png)
@@ -12097,209 +12118,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
-
-[72
-
-]
-File: images/Comparison1.png Graphic file (type png)
-<use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
-(pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
-File: images/Comparison2.png Graphic file (type png)
-<use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
-(pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
-
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.141 \end{frame}
-                 
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.141 \end{frame}
-                 
-I'm forgetting what you said and using zero instead.
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+(hyperref)                setting the option has no effect on input line 158.
 
 [73
 
@@ -12717,14 +12536,6 @@ File: images/Comparison2.png Graphic file (type png)
 Package pdftex.def Info: images/Comparison2.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 156.
-
-<images/8_12.png, id=907, 401.5pt x 401.5pt>
-File: images/8_12.png Graphic file (type png)
-<use images/8_12.png>
-Package pdftex.def Info: images/8_12.png  used on input line 156.
-(pdftex.def)             Requested size: 97.836pt x 97.83229pt.
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
@@ -12922,7 +12733,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 173.
 
-<images/8_12.png, id=786, 401.5pt x 401.5pt>
+<images/8_12.png, id=935, 401.5pt x 401.5pt>
 File: images/8_12.png Graphic file (type png)
 <use images/8_12.png>
 Package pdftex.def Info: images/8_12.png  used on input line 173.
@@ -13109,8 +12920,6 @@ l.173 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
-
-
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
@@ -13119,7 +12928,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 173.
 
-[67
+[77
 
  <./images/8_12.png>]
 File: images/8_12.png Graphic file (type png)
@@ -13317,7 +13126,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 173.
 
-[77
+[78
 
 ]
 File: images/8_12.png Graphic file (type png)
@@ -13515,7 +13324,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 173.
 
-[78
+[79
 
 ])
 
@@ -13712,7 +13521,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 56.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 56.
 
-[79
+[80
 
 
 
@@ -13725,27 +13534,14 @@ File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 66.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 66.
-
-[80
-
- <C:/Users/mcwig/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
-le.pdf>]
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 66.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 66.
 
 [81
 
-
-]
+ <C:/Users/mcwig/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
+le.pdf>]
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
 Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 66.
@@ -13837,16 +13633,16 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 
 ]
-
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 65.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 66.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 65.
 
-[74
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 66.
+
+[89
 
 
 ]
@@ -13854,7 +13650,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 76.
 
-<images/KnotTable.png, id=1056, 1394.20876pt x 622.57594pt>
+<images/KnotTable.png, id=1084, 1394.20876pt x 622.57594pt>
 File: images/KnotTable.png Graphic file (type png)
 <use images/KnotTable.png>
 Package pdftex.def Info: images/KnotTable.png  used on input line 76.
@@ -13875,14 +13671,14 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 76.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 76.
 
-[89
+[90
 
  <./images/KnotTable.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 86.
 
-<images/ContactStructure.png, id=1066, 1927.2pt x 874.26625pt>
+<images/ContactStructure.png, id=1094, 1927.2pt x 874.26625pt>
 File: images/ContactStructure.png Graphic file (type png)
 <use images/ContactStructure.png>
 Package pdftex.def Info: images/ContactStructure.png  used on input line 86.
@@ -13903,7 +13699,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 86.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 86.
 
-[90
+[91
 
  <./images/ContactStructure.png>]
 \tf@nav=\write7
@@ -13927,20 +13723,15 @@ LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `KnotsFractal2025.out' has not changed.
 (rerunfilecheck)             Checksum: 85C06A13AAA846E4067D0B3E82EEF515;817.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                KnotsFractal2025
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'KnotsFractal2025.run.xml'.
 \openout1 = `KnotsFractal2025.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43019 strings out of 474486
- 910306 string characters out of 5743756
+ 43071 strings out of 474486
+ 911559 string characters out of 5743756
  1956542 words of memory out of 5000000
- 64215 multiletter control sequences out of 15000+600000
+ 64263 multiletter control sequences out of 15000+600000
  643639 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  142i,14n,137p,942b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -13963,9 +13754,9 @@ sers/mcwig/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Us
 ers/mcwig/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb><C:/Users/mcwig/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/symbols/msbm10.pfb>
-Output written on KnotsFractal2025.pdf (90 pages, 18471833 bytes).
+Output written on KnotsFractal2025.pdf (91 pages, 18539671 bytes).
 PDF statistics:
- 1213 PDF objects out of 1440 (max. 8388607)
- 254 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1242 PDF objects out of 1440 (max. 8388607)
+ 258 named destinations out of 1000 (max. 500000)
+ 547 words of extra memory for PDF output out of 10000 (max. 10000000)
 
