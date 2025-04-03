@@ -48,7 +48,36 @@
 			\label{mandel}
 		\end{figure}
 		\end{frame}
+		
+\begin{frame}{Fractal Dimension}
+	\begin{itemize}
+		\item Key Question: How does the object scale?
+	\end{itemize}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.2\linewidth]{../../../../../../Desktop/Cube/signs-line-straight-minus-horizontal-png-icon-14}
+		\includegraphics[width=0.25\linewidth]{MichaelImages/Square.png}
+		\includegraphics[width=0.25\linewidth]{MichaelImages/Sierpinski_triangle.svg.png}
+		\caption{\cite{Sierpinski}}
+	\end{figure}
+\end{frame}
 
+\begin{frame}{Box-Counting Dimension}
+	\begin{itemize}
+		\item Place our fractal in grid of "boxes"
+		\item How does the number of boxes change as they get smaller?
+	\end{itemize}
+	
+	\begin{center}
+		\[N \approx N_0s^{-d} \implies \dim_{box}(S) = \lim_{s \to 0}\frac{log (N(s))}{log(s^{-1})}\] 
+	\end{center}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.25\linewidth]{MichaelImages/Great_Britain_Box.svg.png}
+		\caption{Dimension of UK coastline is approx 1.25, (\cite{Mandelbrot1983}, \cite{boxDimensionWiki})}
+		\label{fig:enter-label}
+	\end{figure}
+\end{frame}
 
 \begin{frame}
 	\frametitle{Application}
@@ -78,32 +107,3 @@
 	\end{itemize}
 \end{frame}
 
-\begin{frame}{Fractal Dimension}
-	\begin{itemize}
-		\item Key Question: How does the object scale?
-	\end{itemize}
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.25\linewidth]{MichaelImages/Square.png}
-		\includegraphics[width=0.25\linewidth]{MichaelImages/3d-cube-transparent-png-4.png}
-		\includegraphics[width=0.25\linewidth]{MichaelImages/Sierpinski_triangle.svg.png}
-		\caption{\cite{555w}}
-	\end{figure}
-	\end{frame}
-	
-	\begin{frame}{ Minkowski–Bouligand dimension}
-	\begin{itemize}
-		\item Place our fractal in grid of "boxes"
-		\item How does the number of boxes change as they get smaller?
-	\end{itemize}
-	
-	\begin{center}
-		\[\dim_{box}(S) = \lim_{\epsilon \to 0}\frac{log (N(\epsilon))}{log(\epsilon^{-1})}\] 
-	\end{center}
-	\begin{figure}
-		\centering
-		\includegraphics[width=0.25\linewidth]{MichaelImages/Great_Britain_Box.svg.png}
-		\caption{\cite{555w}}
-		\label{fig:enter-label}
-	\end{figure}
-	\end{frame}
