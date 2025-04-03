@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  1 APR 2025 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.24)  3 APR 2025 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7804,38 +7804,22 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 ]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 24.
+(hyperref)                setting the option has no effect on input line 19.
 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 \end{frame}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+<images/SierpinskiTet.png, id=596, 511.15968pt x 292.09125pt>
+File: images/SierpinskiTet.png Graphic file (type png)
+<use images/SierpinskiTet.png>
+Package pdftex.def Info: images/SierpinskiTet.png  used on input line 19.
+(pdftex.def)             Requested size: 206.62204pt x 118.06898pt.
+<images/SierpinskiTet2.png, id=597, 511.15968pt x 292.09125pt>
+File: images/SierpinskiTet2.png Graphic file (type png)
+<use images/SierpinskiTet2.png>
+Package pdftex.def Info: images/SierpinskiTet2.png  used on input line 19.
+(pdftex.def)             Requested size: 206.62204pt x 118.06898pt.
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7846,7 +7830,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7857,7 +7841,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.19 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7866,7 +7850,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7877,7 +7861,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7888,7 +7872,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.19 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7897,7 +7881,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7908,7 +7892,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7919,7 +7903,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7930,14 +7914,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.24 \end{frame}
+l.19 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7948,7 +7932,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.19 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7957,7 +7941,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7968,7 +7952,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7979,7 +7963,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.19 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -7988,7 +7972,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7999,7 +7983,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.24 \end{frame}
+l.19 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8010,7 +7994,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.24 \end{frame}
+l.19 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
@@ -8018,15 +8002,19 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 24.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 19.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 24.
+(hyperref)                setting the option has no effect on input line 19.
 
 [47
 
-]
+ <./images/SierpinskiTet.png> <./images/SierpinskiTet2.png>]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 41.
+
 
 ! LaTeX Error: There's no line here to end.
 
@@ -8034,7 +8022,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \end{frame}
+l.41 \end{frame}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -8047,7 +8035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \end{frame}
+l.41 \end{frame}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -8056,7 +8044,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8067,7 +8055,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8078,7 +8066,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.41 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8087,7 +8075,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8098,7 +8086,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8109,7 +8097,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.41 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8118,7 +8106,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8129,7 +8117,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8140,7 +8128,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8151,14 +8139,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.24 \end{frame}
+l.41 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8169,7 +8157,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.41 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8178,7 +8166,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8189,7 +8177,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8200,7 +8188,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.24 \end{frame}
+l.41 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8209,7 +8197,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8220,7 +8208,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.24 \end{frame}
+l.41 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8231,7 +8219,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.24 \end{frame}
+l.41 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
@@ -8239,107 +8227,328 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 24.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 41.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 24.
+(hyperref)                setting the option has no effect on input line 41.
 
 [48
 
 ]
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 34.
+! LaTeX Error: There's no line here to end.
 
-<images/CombRep1.png, id=609, 252.945pt x 193.47281pt>
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{frame}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\enit@enditemize ->\enit@after 
+                               \endlist \ifx \enit@series \relax \else \ifnu...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@enditemize ...x \else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.41 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+\enit@enditemize ...ist \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.41 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.41 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.41 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+
+
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 41.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 41.
+
+[49
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 51.
+
+<images/CombRep1.png, id=622, 252.945pt x 193.47281pt>
 File: images/CombRep1.png Graphic file (type png)
 <use images/CombRep1.png>
-Package pdftex.def Info: images/CombRep1.png  used on input line 34.
+Package pdftex.def Info: images/CombRep1.png  used on input line 51.
 (pdftex.def)             Requested size: 206.62204pt x 158.04353pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
 el}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \end{frame}
+l.51 \end{frame}
                 
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 34.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 51.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 34.
+(hyperref)                setting the option has no effect on input line 51.
 
-[49
+[50
 
  <./images/CombRep1.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 44.
+(hyperref)                setting the option has no effect on input line 61.
 
-<images/CombRep2.png, id=621, 401.24907pt x 304.88907pt>
+<images/CombRep2.png, id=633, 401.24907pt x 304.88907pt>
 File: images/CombRep2.png Graphic file (type png)
 <use images/CombRep2.png>
-Package pdftex.def Info: images/CombRep2.png  used on input line 44.
+Package pdftex.def Info: images/CombRep2.png  used on input line 61.
 (pdftex.def)             Requested size: 206.62204pt x 157.00334pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
 el}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \end{frame}
+l.61 \end{frame}
                 
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 44.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 61.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 44.
+(hyperref)                setting the option has no effect on input line 61.
 
-[50
+[51
 
  <./images/CombRep2.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 54.
+(hyperref)                setting the option has no effect on input line 71.
 
-<images/CombRep3.png, id=632, 548.0475pt x 383.93437pt>
+<images/CombRep3.png, id=644, 548.0475pt x 383.93437pt>
 File: images/CombRep3.png Graphic file (type png)
 <use images/CombRep3.png>
-Package pdftex.def Info: images/CombRep3.png  used on input line 54.
+Package pdftex.def Info: images/CombRep3.png  used on input line 71.
 (pdftex.def)             Requested size: 206.62204pt x 144.74834pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{fig:enter-lab
 el}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 \end{frame}
+l.71 \end{frame}
                 
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 54.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 71.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 54.
+(hyperref)                setting the option has no effect on input line 71.
 
-[51
+[52
 
  <./images/CombRep3.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
+(hyperref)                setting the option has no effect on input line 90.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8350,7 +8559,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8361,7 +8570,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8370,7 +8579,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8381,7 +8590,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8392,7 +8601,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8401,7 +8610,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8412,7 +8621,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8423,7 +8632,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8434,14 +8643,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8452,7 +8661,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8461,7 +8670,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8472,7 +8681,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8483,7 +8692,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8492,7 +8701,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8503,7 +8712,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8514,7 +8723,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
@@ -8522,206 +8731,11 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 73.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
-
-[52
-
-]
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.73 \end{frame}
-                
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.73 \end{frame}
-                
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.73 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.73 \end{frame}
-                
-I'm forgetting what you said and using zero instead.
-
-
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 73.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
+(hyperref)                setting the option has no effect on input line 90.
 
 [53
 
@@ -8729,7 +8743,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8740,7 +8754,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8751,7 +8765,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8760,7 +8774,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8771,7 +8785,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8782,7 +8796,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8791,7 +8805,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8802,7 +8816,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8813,7 +8827,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8824,14 +8838,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8842,7 +8856,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8851,7 +8865,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8862,7 +8876,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8873,7 +8887,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8882,7 +8896,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8893,7 +8907,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8904,7 +8918,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
@@ -8912,11 +8926,11 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 73.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
+(hyperref)                setting the option has no effect on input line 90.
 
 [54
 
@@ -8924,7 +8938,7 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8935,7 +8949,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8946,7 +8960,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8955,7 +8969,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8966,7 +8980,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8977,7 +8991,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -8986,7 +9000,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8997,7 +9011,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9008,7 +9022,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9019,14 +9033,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9037,7 +9051,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9046,7 +9060,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9057,7 +9071,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9068,7 +9082,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.73 \end{frame}
+l.90 \end{frame}
                 
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9077,7 +9091,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9088,7 +9102,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.73 \end{frame}
+l.90 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9099,7 +9113,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.73 \end{frame}
+l.90 \end{frame}
                 
 I'm forgetting what you said and using zero instead.
 
@@ -9107,73 +9121,251 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 73.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 73.
+(hyperref)                setting the option has no effect on input line 90.
 
 [55
 
 ]
+! Undefined control sequence.
+\enit@enditemize ->\enit@after 
+                               \endlist \ifx \enit@series \relax \else \ifnu...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@enditemize ...x \else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.90 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.90 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.90 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+\enit@enditemize ...ist \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.90 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.90 \end{frame}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.90 \end{frame}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.90 \end{frame}
+                
+I'm forgetting what you said and using zero instead.
+
+
+
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 90.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 82.
+(hyperref)                setting the option has no effect on input line 90.
 
-<images/Helix1.png, id=676, 599.99156pt x 237.88875pt>
+[56
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 99.
+
+<images/Helix1.png, id=688, 599.99156pt x 237.88875pt>
 File: images/Helix1.png Graphic file (type png)
 <use images/Helix1.png>
-Package pdftex.def Info: images/Helix1.png  used on input line 82.
+Package pdftex.def Info: images/Helix1.png  used on input line 99.
 (pdftex.def)             Requested size: 413.24408pt x 163.84938pt.
 
-Overfull \vbox (2.76215pt too high) detected at line 82
+Overfull \vbox (2.76215pt too high) detected at line 99
  []
 
 
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 82.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 99.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 82.
+(hyperref)                setting the option has no effect on input line 99.
 
-[56
+[57
 
  <./images/Helix1.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 98.
-
-<images/SimplifiedPretzelKnot.png, id=687, 230.36063pt x 130.23656pt>
-File: images/SimplifiedPretzelKnot.png Graphic file (type png)
-<use images/SimplifiedPretzelKnot.png>
-Package pdftex.def Info: images/SimplifiedPretzelKnot.png  used on input line 9
-8.
-(pdftex.def)             Requested size: 165.2951pt x 93.4503pt.
-<images/ConnectHelices.png, id=690, 379.4175pt x 219.06844pt>
-File: images/ConnectHelices.png Graphic file (type png)
-<use images/ConnectHelices.png>
-Package pdftex.def Info: images/ConnectHelices.png  used on input line 98.
-(pdftex.def)             Requested size: 247.94896pt x 143.1616pt.
-
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 98.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 98.
-
-[57
-
- <./images/SimplifiedPretzelKnot.png> <./images/ConnectHelices.png>]
-
-Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 115.
 
+<images/SimplifiedPretzelKnot.png, id=699, 230.36063pt x 130.23656pt>
+File: images/SimplifiedPretzelKnot.png Graphic file (type png)
+<use images/SimplifiedPretzelKnot.png>
+Package pdftex.def Info: images/SimplifiedPretzelKnot.png  used on input line 1
+15.
+(pdftex.def)             Requested size: 165.2951pt x 93.4503pt.
+<images/ConnectHelices.png, id=702, 379.4175pt x 219.06844pt>
+File: images/ConnectHelices.png Graphic file (type png)
+<use images/ConnectHelices.png>
+Package pdftex.def Info: images/ConnectHelices.png  used on input line 115.
+(pdftex.def)             Requested size: 247.94896pt x 143.1616pt.
 
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
@@ -9186,15 +9378,20 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 [58
 
-]
+ <./images/SimplifiedPretzelKnot.png> <./images/ConnectHelices.png>]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 132.
+
+
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 115.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 132.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 115.
+(hyperref)                setting the option has no effect on input line 132.
 
 [59
 
@@ -9202,33 +9399,45 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 115.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 132.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 115.
+(hyperref)                setting the option has no effect on input line 132.
 
 [60
 
 ]
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 132.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
-<images/Comparison1.png, id=726, 149.8097pt x 150.5625pt>
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 132.
+
+[61
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 158.
+
+<images/Comparison1.png, id=739, 149.8097pt x 150.5625pt>
 File: images/Comparison1.png Graphic file (type png)
 <use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
+Package pdftex.def Info: images/Comparison1.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
-<images/Comparison2.png, id=727, 183.68625pt x 183.68625pt>
+<images/Comparison2.png, id=741, 183.68625pt x 183.68625pt>
 File: images/Comparison2.png Graphic file (type png)
 <use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
+Package pdftex.def Info: images/Comparison2.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9239,7 +9448,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9250,7 +9459,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9259,7 +9468,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9270,7 +9479,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9281,7 +9490,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9290,7 +9499,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9301,7 +9510,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9312,7 +9521,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9323,14 +9532,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9341,7 +9550,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9350,7 +9559,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9361,7 +9570,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9372,7 +9581,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9381,7 +9590,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9392,7 +9601,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9403,7 +9612,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -9411,28 +9620,28 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+(hyperref)                setting the option has no effect on input line 158.
 
-[61
+[62
 
  <./images/Comparison1.png> <./images/Comparison2.png>]
 File: images/Comparison1.png Graphic file (type png)
 <use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
+Package pdftex.def Info: images/Comparison1.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
 File: images/Comparison2.png Graphic file (type png)
 <use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
+Package pdftex.def Info: images/Comparison2.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9443,7 +9652,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9454,7 +9663,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9463,7 +9672,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9474,7 +9683,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9485,7 +9694,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9494,7 +9703,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9505,7 +9714,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9516,7 +9725,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9527,14 +9736,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9545,7 +9754,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9554,7 +9763,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9565,7 +9774,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9576,7 +9785,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9585,7 +9794,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9596,7 +9805,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9607,7 +9816,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -9615,232 +9824,28 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
-
-[62
-
-]
-File: images/Comparison1.png Graphic file (type png)
-<use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
-(pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
-File: images/Comparison2.png Graphic file (type png)
-<use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
-(pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
-
-! Undefined control sequence.
-\enit@enditemize ->\enit@after 
-                               \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@enditemize ...x \else \ifnum \enit@resuming 
-                                                  =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-<argument> enit@resume@series@\enit@series 
-                                           
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.141 \end{frame}
-                 
-I'm forgetting what you said and using zero instead.
-
-! Undefined control sequence.
-\enit@enditemize ...ist \fi \ifnum \enit@resuming 
-                                                  =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...xpandafter {\enit@savekeys 
-                                                  }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...it@toks }\ifnum \enit@type 
-                                                  =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   =
-l.141 \end{frame}
-                 
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Undefined control sequence.
-\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
-                                                  \endcsname \the \csname c@...
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\enit@setresumekeys ...e \the \csname c@\@listctr 
-                                                  \endcsname }\fi }
-l.141 \end{frame}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.141 \end{frame}
-                 
-I'm forgetting what you said and using zero instead.
-
-
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+(hyperref)                setting the option has no effect on input line 158.
 
 [63
 
 ]
 File: images/Comparison1.png Graphic file (type png)
 <use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
+Package pdftex.def Info: images/Comparison1.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
 File: images/Comparison2.png Graphic file (type png)
 <use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
+Package pdftex.def Info: images/Comparison2.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9851,7 +9856,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9862,7 +9867,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9871,7 +9876,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9882,7 +9887,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9893,7 +9898,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9902,7 +9907,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9913,7 +9918,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9924,7 +9929,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9935,14 +9940,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9953,7 +9958,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9962,7 +9967,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9973,7 +9978,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -9984,7 +9989,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -9993,7 +9998,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10004,7 +10009,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10015,7 +10020,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -10023,28 +10028,28 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+(hyperref)                setting the option has no effect on input line 158.
 
 [64
 
 ]
 File: images/Comparison1.png Graphic file (type png)
 <use images/Comparison1.png>
-Package pdftex.def Info: images/Comparison1.png  used on input line 141.
+Package pdftex.def Info: images/Comparison1.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
 File: images/Comparison2.png Graphic file (type png)
 <use images/Comparison2.png>
-Package pdftex.def Info: images/Comparison2.png  used on input line 141.
+Package pdftex.def Info: images/Comparison2.png  used on input line 158.
 (pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10055,7 +10060,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10066,7 +10071,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10075,7 +10080,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10086,7 +10091,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10097,7 +10102,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10106,7 +10111,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10117,7 +10122,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10128,7 +10133,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10139,14 +10144,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10157,7 +10162,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10166,7 +10171,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10177,7 +10182,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10188,7 +10193,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.141 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10197,7 +10202,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10208,7 +10213,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.141 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10219,7 +10224,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.141 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -10227,28 +10232,28 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 141.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 141.
+(hyperref)                setting the option has no effect on input line 158.
 
 [65
 
 ]
+File: images/Comparison1.png Graphic file (type png)
+<use images/Comparison1.png>
+Package pdftex.def Info: images/Comparison1.png  used on input line 158.
+(pdftex.def)             Requested size: 83.3089pt x 83.72858pt.
+File: images/Comparison2.png Graphic file (type png)
+<use images/Comparison2.png>
+Package pdftex.def Info: images/Comparison2.png  used on input line 158.
+(pdftex.def)             Requested size: 83.3089pt x 83.31108pt.
 
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 156.
-
-<images/8_12.png, id=764, 401.5pt x 401.5pt>
-File: images/8_12.png Graphic file (type png)
-<use images/8_12.png>
-Package pdftex.def Info: images/8_12.png  used on input line 156.
-(pdftex.def)             Requested size: 97.836pt x 97.83229pt.
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10259,7 +10264,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10270,7 +10275,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10279,7 +10284,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10290,7 +10295,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10301,7 +10306,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10310,7 +10315,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10321,7 +10326,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10332,7 +10337,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10343,14 +10348,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10361,7 +10366,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10370,7 +10375,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10381,7 +10386,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10392,7 +10397,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.158 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10401,7 +10406,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10412,7 +10417,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.158 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10423,7 +10428,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.158 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -10431,24 +10436,228 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 156.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 158.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 156.
+(hyperref)                setting the option has no effect on input line 158.
 
 [66
+
+]
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 173.
+
+<images/8_12.png, id=786, 401.5pt x 401.5pt>
+File: images/8_12.png Graphic file (type png)
+<use images/8_12.png>
+Package pdftex.def Info: images/8_12.png  used on input line 173.
+(pdftex.def)             Requested size: 97.836pt x 97.83229pt.
+! Undefined control sequence.
+\enit@enditemize ->\enit@after 
+                               \endlist \ifx \enit@series \relax \else \ifnu...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@enditemize ...x \else \ifnum \enit@resuming 
+                                                  =\@ne \enit@setresumekeys ...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.173 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.173 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+<argument> enit@resume@series@\enit@series 
+                                           
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.173 \end{frame}
+                 
+I'm forgetting what you said and using zero instead.
+
+! Undefined control sequence.
+\enit@enditemize ...ist \fi \ifnum \enit@resuming 
+                                                  =\thr@@ \enit@setresumekey...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.173 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...xpandafter {\enit@savekeys 
+                                                  }\xdef \enit@afterlist {#2...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...it@toks }\ifnum \enit@type 
+                                                  =\z@ #3\def \enit@noexcs {...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   =
+l.173 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Undefined control sequence.
+\enit@setresumekeys ...me@#1}{\csname c@\@listctr 
+                                                  \endcsname \the \csname c@...
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\enit@setresumekeys ...e \the \csname c@\@listctr 
+                                                  \endcsname }\fi }
+l.173 \end{frame}
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\relax' after \the.
+<recently read> \c@ 
+                    
+l.173 \end{frame}
+                 
+I'm forgetting what you said and using zero instead.
+
+
+
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 173.
+
+[67
 
  <./images/8_12.png>]
 File: images/8_12.png Graphic file (type png)
 <use images/8_12.png>
-Package pdftex.def Info: images/8_12.png  used on input line 156.
+Package pdftex.def Info: images/8_12.png  used on input line 173.
 (pdftex.def)             Requested size: 97.836pt x 97.83229pt.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10459,7 +10668,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10470,7 +10679,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10479,7 +10688,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10490,7 +10699,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10501,7 +10710,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10510,7 +10719,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10521,7 +10730,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10532,7 +10741,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10543,14 +10752,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.173 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10561,7 +10770,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10570,7 +10779,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10581,7 +10790,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10592,7 +10801,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10601,7 +10810,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10612,7 +10821,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10623,7 +10832,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.173 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -10631,24 +10840,24 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 156.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 156.
+(hyperref)                setting the option has no effect on input line 173.
 
-[67
+[68
 
 ]
 File: images/8_12.png Graphic file (type png)
 <use images/8_12.png>
-Package pdftex.def Info: images/8_12.png  used on input line 156.
+Package pdftex.def Info: images/8_12.png  used on input line 173.
 (pdftex.def)             Requested size: 97.836pt x 97.83229pt.
 
 ! Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10659,7 +10868,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10670,7 +10879,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10679,7 +10888,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10690,7 +10899,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10701,7 +10910,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10710,7 +10919,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10721,7 +10930,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10732,7 +10941,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10743,14 +10952,14 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.173 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
 ! Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10761,7 +10970,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10770,7 +10979,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10781,7 +10990,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10792,7 +11001,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    =
-l.156 \end{frame}
+l.173 \end{frame}
                  
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -10801,7 +11010,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10812,7 +11021,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.156 \end{frame}
+l.173 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10823,7 +11032,7 @@ and I'll forget about whatever was undefined.
 ! You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.156 \end{frame}
+l.173 \end{frame}
                  
 I'm forgetting what you said and using zero instead.
 
@@ -10831,13 +11040,13 @@ I'm forgetting what you said and using zero instead.
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 156.
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 173.
 (pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 156.
+(hyperref)                setting the option has no effect on input line 173.
 
-[68
+[69
 
 ])
 
@@ -11036,7 +11245,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 55.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 55.
 
-[69
+[70
 
 
 
@@ -11046,19 +11255,6 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 65.
 
 
-
-File: style/kuleuvenBackground.pdf Graphic file (type pdf)
-<use style/kuleuvenBackground.pdf>
-Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 65.
-(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
-
-Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 65.
-
-[70
-
- <C:/Users/sogor/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
-le.pdf>]
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
@@ -11070,8 +11266,8 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 [71
 
-
-]
+ <C:/Users/sogor/AppData/Local/Programs/MiKTeX/tex/latex/beamer/beamericonartic
+le.pdf>]
 
 File: style/kuleuvenBackground.pdf Graphic file (type pdf)
 <use style/kuleuvenBackground.pdf>
@@ -11099,10 +11295,23 @@ Package hyperref Warning: Option `colorlinks' has already been used,
 
 ]
 
+File: style/kuleuvenBackground.pdf Graphic file (type pdf)
+<use style/kuleuvenBackground.pdf>
+Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 65.
+(pdftex.def)             Requested size: 455.2446pt x 256.08334pt.
+
+Package hyperref Warning: Option `colorlinks' has already been used,
+(hyperref)                setting the option has no effect on input line 65.
+
+[74
+
+
+]
+
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 75.
 
-<images/KnotTable.png, id=849, 1394.20876pt x 622.57594pt>
+<images/KnotTable.png, id=871, 1394.20876pt x 622.57594pt>
 File: images/KnotTable.png Graphic file (type png)
 <use images/KnotTable.png>
 Package pdftex.def Info: images/KnotTable.png  used on input line 75.
@@ -11123,14 +11332,14 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 75.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 75.
 
-[74
+[75
 
  <./images/KnotTable.png>]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 85.
 
-<images/ContactStructure.png, id=859, 1927.2pt x 874.26625pt>
+<images/ContactStructure.png, id=881, 1927.2pt x 874.26625pt>
 File: images/ContactStructure.png Graphic file (type png)
 <use images/ContactStructure.png>
 Package pdftex.def Info: images/ContactStructure.png  used on input line 85.
@@ -11151,7 +11360,7 @@ Package pdftex.def Info: style/kuleuvenBackground.pdf  used on input line 85.
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 85.
 
-[75
+[76
 
  <./images/ContactStructure.png>]
 \tf@nav=\write7
@@ -11171,26 +11380,19 @@ L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `KnotsFractal2025.out' has not changed.
 (rerunfilecheck)             Checksum: 004E41E244314BE1D1FB9E4BE8D07A03;880.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
 Package logreq Info: Writing requests to 'KnotsFractal2025.run.xml'.
 \openout1 = `KnotsFractal2025.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40984 strings out of 473523
- 853307 string characters out of 5714630
- 1767159 words of memory out of 5000000
- 63188 multiletter control sequences out of 15000+600000
+ 41023 strings out of 473523
+ 854154 string characters out of 5714630
+ 1767258 words of memory out of 5000000
+ 63225 multiletter control sequences out of 15000+600000
  641958 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  142i,14n,137p,707b,5183s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -11214,9 +11416,9 @@ ers/sogor/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Us
 ers/sogor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msa
 m10.pfb><C:/Users/sogor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/symbols/msbm10.pfb>
-Output written on KnotsFractal2025.pdf (75 pages, 9978272 bytes).
+Output written on KnotsFractal2025.pdf (76 pages, 10044770 bytes).
 PDF statistics:
- 998 PDF objects out of 1000 (max. 8388607)
- 200 named destinations out of 1000 (max. 500000)
- 440 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1020 PDF objects out of 1200 (max. 8388607)
+ 202 named destinations out of 1000 (max. 500000)
+ 450 words of extra memory for PDF output out of 10000 (max. 10000000)
 
