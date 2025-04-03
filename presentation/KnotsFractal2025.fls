@@ -472,6 +472,24 @@ INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-e
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerpatchparalist.sty
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerpatchparalist.sty
+INPUT .\KnotsFractal2025.aux
+INPUT .\KnotsFractal2025.aux
+INPUT KnotsFractal2025.aux
+INPUT .\knots1.aux
+INPUT .\knots1.aux
+INPUT knots1.aux
+INPUT .\knots2.aux
+INPUT .\knots2.aux
+INPUT knots2.aux
+INPUT .\fractals.aux
+INPUT .\fractals.aux
+INPUT fractals.aux
+INPUT .\proof1.aux
+INPUT .\proof1.aux
+INPUT proof1.aux
+INPUT .\proof2.aux
+INPUT .\proof2.aux
+INPUT proof2.aux
 OUTPUT KnotsFractal2025.aux
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -482,6 +500,12 @@ INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT .\KnotsFractal2025.out
+INPUT .\KnotsFractal2025.out
+INPUT KnotsFractal2025.out
+INPUT KnotsFractal2025.out
+INPUT .\KnotsFractal2025.out
+INPUT .\KnotsFractal2025.out
 OUTPUT KnotsFractal2025.out
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -573,6 +597,9 @@ INPUT .\style\kuleuvenTitlepage.pdf
 INPUT .\style\kuleuvenTitlepage.pdf
 INPUT C:\Users\mcwig\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT .\style\kuleuvenOutline.pdf
 INPUT .\style\kuleuvenOutline.pdf
@@ -587,6 +614,9 @@ OUTPUT knots1.aux
 INPUT .\knots1.tex
 INPUT .\knots1.tex
 INPUT knots1.tex
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi12.tfm
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
@@ -611,6 +641,8 @@ INPUT .\Pictures\chineseknot.png
 INPUT .\Pictures\chineseknot.png
 INPUT .\Pictures\chineseknot.png
 INPUT .\Pictures\chineseknot.png
+INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -654,6 +686,10 @@ INPUT .\Pictures\simple knots.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
+INPUT .\Pictures\DNA.png
+INPUT .\Pictures\DNA.png
+INPUT .\Pictures\DNA.png
+INPUT .\Pictures\DNA.png
 INPUT .\Pictures\DNA.png
 INPUT .\Pictures\DNA.png
 INPUT .\Pictures\DNA.png
@@ -758,18 +794,20 @@ OUTPUT knots2.aux
 INPUT .\knots2.tex
 INPUT .\knots2.tex
 INPUT knots2.tex
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmbx12.tfm
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT .\images\math.stackexchange.com accessed on 21.03.2025.png
-INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmss10.tfm
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
+INPUT .\images\realalterknot.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -937,6 +975,9 @@ OUTPUT fractals.aux
 INPUT .\fractals.tex
 INPUT .\fractals.tex
 INPUT fractals.tex
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -984,7 +1025,6 @@ INPUT .\images\Koch1.png
 INPUT .\images\Koch1.png
 INPUT .\images\Koch1.png
 INPUT .\images\Koch1.png
-INPUT C:\Users\mcwig\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -998,9 +1038,12 @@ INPUT .\images\mandelbrot.jpg
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
+INPUT ..\..\..\..\..\..\Desktop\Cube\signs-line-straight-minus-horizontal-png-icon-14.png
 INPUT .\MichaelImages\Square.png
 INPUT .\MichaelImages\Square.png
 INPUT .\MichaelImages\Square.png
@@ -1008,13 +1051,6 @@ INPUT .\MichaelImages\Square.png
 INPUT .\MichaelImages\Square.png
 INPUT .\MichaelImages\Square.png
 INPUT .\MichaelImages\Square.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
-INPUT .\MichaelImages\3d-cube-transparent-png-4.png
 INPUT .\MichaelImages\Sierpinski_triangle.svg.png
 INPUT .\MichaelImages\Sierpinski_triangle.svg.png
 INPUT .\MichaelImages\Sierpinski_triangle.svg.png
@@ -1032,6 +1068,9 @@ INPUT .\MichaelImages\Great_Britain_Box.svg.png
 INPUT .\MichaelImages\Great_Britain_Box.svg.png
 INPUT .\MichaelImages\Great_Britain_Box.svg.png
 INPUT .\MichaelImages\Great_Britain_Box.svg.png
+INPUT .\style\kuleuvenBackground.pdf
+INPUT .\style\kuleuvenBackground.pdf
+INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -1041,6 +1080,9 @@ OUTPUT proof1.aux
 INPUT .\proof1.tex
 INPUT .\proof1.tex
 INPUT proof1.tex
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -1163,13 +1205,10 @@ INPUT .\ProofOfPointsOnSponge.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
-INPUT .\ProofOfPointsOnSponge.png
-INPUT .\ProofOfPointsOnSponge.png
-INPUT .\ProofOfPointsOnSponge.png
-INPUT .\ProofOfPointsOnSponge.png
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
+INPUT .\cantordust.png
+INPUT .\cantordust.png
+INPUT .\cantordust.png
+INPUT .\cantordust.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -1189,16 +1228,16 @@ INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
+INPUT .\KnotOnFace.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
-INPUT .\KnotOnFace.png
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -1211,6 +1250,9 @@ OUTPUT proof2.aux
 INPUT .\proof2.tex
 INPUT .\proof2.tex
 INPUT proof2.tex
+INPUT .\KnotsFractal2025.toc
+INPUT .\KnotsFractal2025.toc
+INPUT KnotsFractal2025.toc
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
@@ -1361,15 +1403,6 @@ INPUT .\style\kuleuvenBackground.pdf
 INPUT .\images\8_12.png
 INPUT .\images\8_12.png
 INPUT .\images\8_12.png
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
-INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf
 INPUT .\style\kuleuvenBackground.pdf

@@ -86,6 +86,38 @@
       \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
       \endverb
     \endentry
+    \entry{COastline}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b89c80ef29a9342c2803232abe04cff5}{%
+           family={Birnir},
+           familyi={B\bibinitperiod},
+           given={Bjorn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{fullhash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{bibnamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authorbibnamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authornamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authorfullhash}{b89c80ef29a9342c2803232abe04cff5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Erosion}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://cnls.math.ucsb.edu/research/erosion
+      \endverb
+      \verb{url}
+      \verb https://cnls.math.ucsb.edu/research/erosion
+      \endverb
+    \endentry
     \entry{broden2024knotsinsidefractals}{misc}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=29b790c77af1128ebdb19ee04897727a}{%
@@ -140,6 +172,74 @@
       \verb https://arxiv.org/abs/2409.03639
       \endverb
     \endentry
+    \entry{christiantrequetra}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{File:BorromeanRings-Trinity.png --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:BorromeanRings-Trinity.png&oldid=867989638
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:BorromeanRings-Trinity.png&oldid=867989638
+      \endverb
+    \endentry
+    \entry{knotsunfolding}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{File:Knot Unfolding.gif --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Knot_Unfolding.gif&oldid=867982553
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Knot_Unfolding.gif&oldid=867982553
+      \endverb
+    \endentry
     \entry{cantor}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
@@ -155,6 +255,7 @@
       \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
       \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
       \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{3}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -235,6 +336,37 @@
       \verb https://www.robertdickau.com/cantor.html
       \endverb
     \endentry
+    \entry{Lung}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4c25e4f6ec4b006fb69e0ded1a5ab78}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={el},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{fullhash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{bibnamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authorbibnamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authornamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authorfullhash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Fractal in Science}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://csdt.org/culture/africanfractals/science.html
+      \endverb
+      \verb{url}
+      \verb https://csdt.org/culture/africanfractals/science.html
+      \endverb
+    \endentry
     \entry{555w}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d558db0e866408c3a5c1d1235ef8b45e}{%
@@ -260,6 +392,130 @@
       \endverb
       \verb{url}
       \verb https://commons.wikimedia.org/wiki/File:Dna-base-flipping.svg
+      \endverb
+    \endentry
+    \entry{Alexander}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{1}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Alexander polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+    \endentry
+    \entry{reidemeister}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{2}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Reidemeister move --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Reidemeister_move&oldid=1258768156
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Reidemeister_move&oldid=1258768156
+      \endverb
+    \endentry
+    \entry{Jones}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{3}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Jones polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Jones_polynomial&oldid=1267395561
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Jones_polynomial&oldid=1267395561
+      \endverb
+    \endentry
+    \entry{Chineseknot}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{fullhash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{bibnamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authorbibnamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authornamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authorfullhash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \field{extraname}{4}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Chinese Knotting}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://xiaotigerking.blogspot.com/2014/03/chinese-knotting.html
+      \endverb
+      \verb{url}
+      \verb https://xiaotigerking.blogspot.com/2014/03/chinese-knotting.html
       \endverb
     \endentry
     \entry{etnyre2000knotscontactgeometry}{misc}{}
@@ -359,6 +615,106 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201702531
       \endverb
       \keyw{interlocked molecules,molecular knots,supramolecular chemistry,template synthesis,topology}
+    \endentry
+    \entry{farbric}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b843fb62f18bc15080d21500ec7fdba8}{%
+           family={Futurology},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{fullhash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{bibnamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authorbibnamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authornamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authorfullhash}{b843fb62f18bc15080d21500ec7fdba8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Knots Smaller Than Human Hair Make Materials Unusually Tough}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.reddit.com/r/Futurology/comments/11qdial/knots_smaller_than_human_hair_make_materials/
+      \endverb
+      \verb{url}
+      \verb https://www.reddit.com/r/Futurology/comments/11qdial/knots_smaller_than_human_hair_make_materials/
+      \endverb
+    \endentry
+    \entry{audi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=99a200c6953c1637cf79a44b1fddded9}{%
+           family={Gauthier},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{fullhash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{bibnamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authorbibnamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authornamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authorfullhash}{99a200c6953c1637cf79a44b1fddded9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Audi Debuts New Black And White Logo With A Two-Dimensional Appearance}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.carscoops.com/2022/11/audi-introduces-new-black-and-white-logo-with-a-two-dimensional-appearance/
+      \endverb
+      \verb{url}
+      \verb https://www.carscoops.com/2022/11/audi-introduces-new-black-and-white-logo-with-a-two-dimensional-appearance/
+      \endverb
+    \endentry
+    \entry{DNA}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be6059f952a51cc8950042096b512c91}{%
+           family={Harteis},
+           familyi={H\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb28314c6ec714ceb45d487a824782a9}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{fullhash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{bibnamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authorbibnamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authornamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authorfullhash}{2ff9a267cb50237f64971302b387d19c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of molecular sciences}
+      \field{month}{07}
+      \field{title}{Making the Bend: DNA Tertiary Structure and Protein-DNA Interactions}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{12335\bibrangedash 12363}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.3390/ijms150712335
+      \endverb
     \endentry
     \entry{iftekharuddin2003fractal}{article}{}
       \name{author}{3}{}{%
@@ -466,6 +822,35 @@
       \field{year}{2016}
       \verb{doi}
       \verb 10.48550/arXiv.1604.03870
+      \endverb
+    \endentry
+    \entry{Knotsdailylife}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=338452995c2d5a3af7c836b1fd1bc72f}{%
+           family={LiveOak},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{fullhash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{bibnamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authorbibnamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authornamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authorfullhash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Top Ten Knots for Kids}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.campliveoakfl.com/top-ten-knots-for-kids/
+      \endverb
+      \verb{url}
+      \verb https://www.campliveoakfl.com/top-ten-knots-for-kids/
       \endverb
     \endentry
     \entry{knotinfo}{misc}{}
@@ -740,6 +1125,38 @@
       \field{pages}{462\bibrangedash 469}
       \range{pages}{8}
     \endentry
+    \entry{Equivalence}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26b657068410546dce6071004c706632}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Giovanni\bibnamedelima De},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26b657068410546dce6071004c706632}
+      \strng{fullhash}{26b657068410546dce6071004c706632}
+      \strng{bibnamehash}{26b657068410546dce6071004c706632}
+      \strng{authorbibnamehash}{26b657068410546dce6071004c706632}
+      \strng{authornamehash}{26b657068410546dce6071004c706632}
+      \strng{authorfullhash}{26b657068410546dce6071004c706632}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{An Introduction to the Theory of Knots}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://graphics.stanford.edu/courses/cs468-02-fall/projects/desanti.pdf
+      \endverb
+      \verb{url}
+      \verb https://graphics.stanford.edu/courses/cs468-02-fall/projects/desanti.pdf
+      \endverb
+    \endentry
     \entry{takayasu2009fractals}{article}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=7c4b013400ebb7bf902ef51a7d1b11f5}{%
@@ -813,7 +1230,36 @@
       \field{pages}{167\bibrangedash 174}
       \range{pages}{8}
     \endentry
-    \entry{boxDimensionWiki}{misc}{}
+    \entry{compound}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb57e6cc4f0191011565336ff8cde407}{%
+           family={Veritasium},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{fullhash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{bibnamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authorbibnamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authornamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authorfullhash}{fb57e6cc4f0191011565336ff8cde407}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{The Insane Math Of Knot Theory}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=8DBhTXM_Br4&t=1254s
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=8DBhTXM_Br4&t=1254s
+      \endverb
+    \endentry
+    \entry{fractalcover}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -826,6 +1272,36 @@
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Selbstähnlichkeit --- Wikipedia{,} Die freyi alemannischi Enzyklopädi}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb //als.wikipedia.org/w/index.php?title=Selbst%C3%A4hnlichkeit&oldid=1041786
+      \endverb
+      \verb{url}
+      \verb //als.wikipedia.org/w/index.php?title=Selbst%C3%A4hnlichkeit&oldid=1041786
+      \endverb
+    \endentry
+    \entry{boxDimensionWiki}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -855,7 +1331,7 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -872,6 +1348,37 @@
       \verb https://en.wikipedia.org/w/index.php?title=Sierpi%C5%84ski_triangle&oldid=1281040352
       \endverb
     \endentry
+    \entry{L+}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Alexander polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+    \endentry
     \entry{enwiki:1262008950}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
@@ -884,8 +1391,10 @@
       \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
       \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
       \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -899,6 +1408,67 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
+      \endverb
+    \endentry
+    \entry{simpleknots}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Knot (mathematics) --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Knot_(mathematics)&oldid=1195004148
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Knot_(mathematics)&oldid=1195004148
+      \endverb
+    \endentry
+    \entry{trefoil}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Trefoil knot --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Trefoil_knot&oldid=1271401017
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Trefoil_knot&oldid=1271401017
       \endverb
     \endentry
   \enddatalist
@@ -970,6 +1540,38 @@
       \verb https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/
       \endverb
     \endentry
+    \entry{COastline}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b89c80ef29a9342c2803232abe04cff5}{%
+           family={Birnir},
+           familyi={B\bibinitperiod},
+           given={Bjorn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{fullhash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{bibnamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authorbibnamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authornamehash}{b89c80ef29a9342c2803232abe04cff5}
+      \strng{authorfullhash}{b89c80ef29a9342c2803232abe04cff5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Erosion}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb https://cnls.math.ucsb.edu/research/erosion
+      \endverb
+      \verb{url}
+      \verb https://cnls.math.ucsb.edu/research/erosion
+      \endverb
+    \endentry
     \entry{broden2024knotsinsidefractals}{misc}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=29b790c77af1128ebdb19ee04897727a}{%
@@ -1024,6 +1626,74 @@
       \verb https://arxiv.org/abs/2409.03639
       \endverb
     \endentry
+    \entry{christiantrequetra}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{File:BorromeanRings-Trinity.png --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:BorromeanRings-Trinity.png&oldid=867989638
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:BorromeanRings-Trinity.png&oldid=867989638
+      \endverb
+    \endentry
+    \entry{knotsunfolding}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
+           family={Commons},
+           familyi={C\bibinitperiod},
+           given={Wikimedia},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{fullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{bibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{File:Knot Unfolding.gif --- Wikimedia Commons{,} the free media repository}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Knot_Unfolding.gif&oldid=867982553
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?title=File:Knot_Unfolding.gif&oldid=867982553
+      \endverb
+    \endentry
     \entry{cantor}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=93d707cc77f037fd02e1c8cfa75317cf}{%
@@ -1039,6 +1709,7 @@
       \strng{authorbibnamehash}{93d707cc77f037fd02e1c8cfa75317cf}
       \strng{authornamehash}{93d707cc77f037fd02e1c8cfa75317cf}
       \strng{authorfullhash}{93d707cc77f037fd02e1c8cfa75317cf}
+      \field{extraname}{3}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
@@ -1119,6 +1790,37 @@
       \verb https://www.robertdickau.com/cantor.html
       \endverb
     \endentry
+    \entry{Lung}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d4c25e4f6ec4b006fb69e0ded1a5ab78}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={el},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{fullhash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{bibnamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authorbibnamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authornamehash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \strng{authorfullhash}{d4c25e4f6ec4b006fb69e0ded1a5ab78}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Fractal in Science}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://csdt.org/culture/africanfractals/science.html
+      \endverb
+      \verb{url}
+      \verb https://csdt.org/culture/africanfractals/science.html
+      \endverb
+    \endentry
     \entry{555w}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d558db0e866408c3a5c1d1235ef8b45e}{%
@@ -1144,6 +1846,130 @@
       \endverb
       \verb{url}
       \verb https://commons.wikimedia.org/wiki/File:Dna-base-flipping.svg
+      \endverb
+    \endentry
+    \entry{Alexander}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{1}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Alexander polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+    \endentry
+    \entry{reidemeister}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{2}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Reidemeister move --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Reidemeister_move&oldid=1258768156
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Reidemeister_move&oldid=1258768156
+      \endverb
+    \endentry
+    \entry{Jones}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4b12c788d52a4ea109e98f5758529ae}{%
+           family={{et al.}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{fullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{bibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorbibnamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authornamehash}{c4b12c788d52a4ea109e98f5758529ae}
+      \strng{authorfullhash}{c4b12c788d52a4ea109e98f5758529ae}
+      \field{extraname}{3}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Jones polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Jones_polynomial&oldid=1267395561
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Jones_polynomial&oldid=1267395561
+      \endverb
+    \endentry
+    \entry{Chineseknot}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{fullhash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{bibnamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authorbibnamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authornamehash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \strng{authorfullhash}{38026ba4ee6b102b47bf3ffb41325c8f}
+      \field{extraname}{4}
+      \field{sortinit}{e}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Chinese Knotting}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://xiaotigerking.blogspot.com/2014/03/chinese-knotting.html
+      \endverb
+      \verb{url}
+      \verb https://xiaotigerking.blogspot.com/2014/03/chinese-knotting.html
       \endverb
     \endentry
     \entry{etnyre2000knotscontactgeometry}{misc}{}
@@ -1243,6 +2069,106 @@
       \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201702531
       \endverb
       \keyw{interlocked molecules,molecular knots,supramolecular chemistry,template synthesis,topology}
+    \endentry
+    \entry{farbric}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b843fb62f18bc15080d21500ec7fdba8}{%
+           family={Futurology},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{fullhash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{bibnamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authorbibnamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authornamehash}{b843fb62f18bc15080d21500ec7fdba8}
+      \strng{authorfullhash}{b843fb62f18bc15080d21500ec7fdba8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Knots Smaller Than Human Hair Make Materials Unusually Tough}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.reddit.com/r/Futurology/comments/11qdial/knots_smaller_than_human_hair_make_materials/
+      \endverb
+      \verb{url}
+      \verb https://www.reddit.com/r/Futurology/comments/11qdial/knots_smaller_than_human_hair_make_materials/
+      \endverb
+    \endentry
+    \entry{audi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=99a200c6953c1637cf79a44b1fddded9}{%
+           family={Gauthier},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{fullhash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{bibnamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authorbibnamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authornamehash}{99a200c6953c1637cf79a44b1fddded9}
+      \strng{authorfullhash}{99a200c6953c1637cf79a44b1fddded9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Audi Debuts New Black And White Logo With A Two-Dimensional Appearance}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.carscoops.com/2022/11/audi-introduces-new-black-and-white-logo-with-a-two-dimensional-appearance/
+      \endverb
+      \verb{url}
+      \verb https://www.carscoops.com/2022/11/audi-introduces-new-black-and-white-logo-with-a-two-dimensional-appearance/
+      \endverb
+    \endentry
+    \entry{DNA}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=be6059f952a51cc8950042096b512c91}{%
+           family={Harteis},
+           familyi={H\bibinitperiod},
+           given={Sabrina},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb28314c6ec714ceb45d487a824782a9}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{fullhash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{bibnamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authorbibnamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authornamehash}{2ff9a267cb50237f64971302b387d19c}
+      \strng{authorfullhash}{2ff9a267cb50237f64971302b387d19c}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International journal of molecular sciences}
+      \field{month}{07}
+      \field{title}{Making the Bend: DNA Tertiary Structure and Protein-DNA Interactions}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{12335\bibrangedash 12363}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.3390/ijms150712335
+      \endverb
     \endentry
     \entry{iftekharuddin2003fractal}{article}{}
       \name{author}{3}{}{%
@@ -1350,6 +2276,35 @@
       \field{year}{2016}
       \verb{doi}
       \verb 10.48550/arXiv.1604.03870
+      \endverb
+    \endentry
+    \entry{Knotsdailylife}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=338452995c2d5a3af7c836b1fd1bc72f}{%
+           family={LiveOak},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{fullhash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{bibnamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authorbibnamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authornamehash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \strng{authorfullhash}{338452995c2d5a3af7c836b1fd1bc72f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{Top Ten Knots for Kids}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.campliveoakfl.com/top-ten-knots-for-kids/
+      \endverb
+      \verb{url}
+      \verb https://www.campliveoakfl.com/top-ten-knots-for-kids/
       \endverb
     \endentry
     \entry{knotinfo}{misc}{}
@@ -1624,6 +2579,38 @@
       \field{pages}{462\bibrangedash 469}
       \range{pages}{8}
     \endentry
+    \entry{Equivalence}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=26b657068410546dce6071004c706632}{%
+           family={Santi},
+           familyi={S\bibinitperiod},
+           given={Giovanni\bibnamedelima De},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{26b657068410546dce6071004c706632}
+      \strng{fullhash}{26b657068410546dce6071004c706632}
+      \strng{bibnamehash}{26b657068410546dce6071004c706632}
+      \strng{authorbibnamehash}{26b657068410546dce6071004c706632}
+      \strng{authornamehash}{26b657068410546dce6071004c706632}
+      \strng{authorfullhash}{26b657068410546dce6071004c706632}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{An Introduction to the Theory of Knots}
+      \field{year}{2002}
+      \verb{urlraw}
+      \verb https://graphics.stanford.edu/courses/cs468-02-fall/projects/desanti.pdf
+      \endverb
+      \verb{url}
+      \verb https://graphics.stanford.edu/courses/cs468-02-fall/projects/desanti.pdf
+      \endverb
+    \endentry
     \entry{takayasu2009fractals}{article}{}
       \name{author}{2}{}{%
         {{un=1,uniquepart=given,hash=7c4b013400ebb7bf902ef51a7d1b11f5}{%
@@ -1697,7 +2684,36 @@
       \field{pages}{167\bibrangedash 174}
       \range{pages}{8}
     \endentry
-    \entry{boxDimensionWiki}{misc}{}
+    \entry{compound}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb57e6cc4f0191011565336ff8cde407}{%
+           family={Veritasium},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{fullhash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{bibnamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authorbibnamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authornamehash}{fb57e6cc4f0191011565336ff8cde407}
+      \strng{authorfullhash}{fb57e6cc4f0191011565336ff8cde407}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 2025-04-01}
+      \field{title}{The Insane Math Of Knot Theory}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=8DBhTXM_Br4&t=1254s
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=8DBhTXM_Br4&t=1254s
+      \endverb
+    \endentry
+    \entry{fractalcover}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -1710,6 +2726,36 @@
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
       \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Selbstähnlichkeit --- Wikipedia{,} Die freyi alemannischi Enzyklopädi}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb //als.wikipedia.org/w/index.php?title=Selbst%C3%A4hnlichkeit&oldid=1041786
+      \endverb
+      \verb{url}
+      \verb //als.wikipedia.org/w/index.php?title=Selbst%C3%A4hnlichkeit&oldid=1041786
+      \endverb
+    \endentry
+    \entry{boxDimensionWiki}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1739,7 +2785,7 @@
       \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
       \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1756,6 +2802,37 @@
       \verb https://en.wikipedia.org/w/index.php?title=Sierpi%C5%84ski_triangle&oldid=1281040352
       \endverb
     \endentry
+    \entry{L+}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Alexander polynomial --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Alexander_polynomial&oldid=1226204779
+      \endverb
+    \endentry
     \entry{enwiki:1262008950}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
@@ -1768,8 +2845,10 @@
       \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
       \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
       \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
@@ -1783,6 +2862,67 @@
       \endverb
       \verb{url}
       \verb https://en.wikipedia.org/w/index.php?title=Contact_geometry&oldid=1262008950
+      \endverb
+    \endentry
+    \entry{simpleknots}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 1-April-2025]}
+      \field{title}{Knot (mathematics) --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Knot_(mathematics)&oldid=1195004148
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Knot_(mathematics)&oldid=1195004148
+      \endverb
+    \endentry
+    \entry{trefoil}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 3-April-2025]}
+      \field{title}{Trefoil knot --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Trefoil_knot&oldid=1271401017
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Trefoil_knot&oldid=1271401017
       \endverb
     \endentry
   \enddatalist

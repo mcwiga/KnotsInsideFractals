@@ -1,23 +1,23 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'KnotsFractal2025.blg'
-[94] biber-MSWIN64:340> INFO - === 
-[127] Biber.pm:419> INFO - Reading 'KnotsFractal2025.bcf'
-[237] Biber.pm:979> INFO - Found 27 citekeys in bib section 0
-[254] Biber.pm:4419> INFO - Processing section 0
-[267] Biber.pm:4610> INFO - Looking for bibtex file 'KnotsFractalsReference.bib' for section 0
-[316] bibtex.pm:1713> INFO - LaTeX decoding ...
-[347] bibtex.pm:1519> INFO - Found BibTeX data source 'KnotsFractalsReference.bib'
-[482] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[482] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[482] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[482] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[517] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[517] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[517] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
-[517] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[540] bbl.pm:660> INFO - Writing 'KnotsFractal2025.bbl' with encoding 'UTF-8'
-[560] bbl.pm:763> INFO - Output to KnotsFractal2025.bbl
-[561] Biber.pm:131> WARN - legacy year field 'accessed 3-April-2025' in entry 'Sierpinski' is not an integer - this will probably not sort properly.
-[561] Biber.pm:131> WARN - I didn't find a database entry for 'frac' (section 0)
-[561] Biber.pm:131> WARN - I didn't find a database entry for 'wiki:xxx' (section 0)
-[561] Biber.pm:133> INFO - WARNINGS: 3
+[122] biber-MSWIN64:340> INFO - === 
+[164] Biber.pm:419> INFO - Reading 'KnotsFractal2025.bcf'
+[288] Biber.pm:979> INFO - Found 45 citekeys in bib section 0
+[305] Biber.pm:4419> INFO - Processing section 0
+[317] Biber.pm:4610> INFO - Looking for bibtex file 'KnotsFractalsReference.bib' for section 0
+[392] bibtex.pm:1713> INFO - LaTeX decoding ...
+[434] bibtex.pm:1519> INFO - Found BibTeX data source 'KnotsFractalsReference.bib'
+[623] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[623] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[623] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[623] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[686] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[687] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[687] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[687] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[720] bbl.pm:660> INFO - Writing 'KnotsFractal2025.bbl' with encoding 'UTF-8'
+[752] bbl.pm:763> INFO - Output to KnotsFractal2025.bbl
+[753] Biber.pm:131> WARN - legacy year field 'accessed 3-April-2025' in entry 'Sierpinski' is not an integer - this will probably not sort properly.
+[753] Biber.pm:131> WARN - I didn't find a database entry for 'frac' (section 0)
+[753] Biber.pm:131> WARN - I didn't find a database entry for 'wiki:xxx' (section 0)
+[753] Biber.pm:133> INFO - WARNINGS: 3

@@ -35,6 +35,31 @@
 \definecolor{kulgroen}{RGB}{82,189,236}
 \colorlet{kulgroen10} {kulgroen!10!white}
 
+%New Textbox
+
+\definecolor{KUL_blue}{rgb}{0.11,0.55,0.69}
+\definecolor{KUL_dark_blue}{rgb}{0.067, 0.431, 0.541}
+\definecolor{KUL_light_blue}{rgb}{0.86, 0.91, 0.94}
+
+\usepackage{tcolorbox}
+\newtcolorbox{kulblock}[1]{
+    before=\par\smallskip\centering,
+	colback=KUL_light_blue,
+	colbacktitle=KUL_blue,
+	coltitle=white,
+	coltext=KUL_dark_blue,
+	colframe=KUL_blue,
+	boxrule=1pt,
+	%titlerule=0pt,
+	arc=2pt,
+	fonttitle=\bfseries,
+	title={\strut#1}
+}
+\newtcolorbox{cbox}[1][]{
+   before=\par\smallskip,
+   #1
+}
+
 %Kleuren nieuwe stijl 2018: hoofdkleuren
 \definecolor{KULblauw1}{RGB}{29,141,176} %Hoofdblauw nieuwe huisstijl
 \definecolor{KULblauw2}{RGB}{220,231,240} %Secundair blauw: heel lichtblauw
